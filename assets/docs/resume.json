@@ -1,0 +1,140 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "Work Experience",
+    "skills": "Skills",
+    "awards": "Awards",
+    "education": "Education",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Tristan Burgess",
+    "email": "tburgessdev@gmail.com",
+    "phone": "(603) 892-5432",
+    "website": "https://tristanburgess.github.io/",
+    "location": {
+      "address": "Manchester, NH"
+    }
+  },
+  "education": [
+    {
+      "institution": "New Hampshire Technical Institute",
+      "studyType": "Associate of Science",
+      "area": "Information Technology - Software Development",
+      "startDate": "Sep 2013",
+      "endDate": "May 2015",
+      "location": "Concord, NH"
+    }
+  ],
+  "work": [
+    {
+      "company": "Oracle",
+      "location": "Manchester, NH",
+      "position": "Software Engineer III",
+      "startDate": "May 2018",
+      "endDate": "Present",
+      "highlights": [
+        "Promoted to tech lead within a year. Responsible for long term planning, training, and critical development for Oracle Cloud Infrastructure's substrate DNS systems.",
+        "Own the DNS team's datacenter bootstrapping responsibilities. Successfully trained a team of 3 people to own our current process.",
+        "Contribute actively to new developments for the automation of datacenter bootstrapping of core DNS services. Create tooling to perform DNS services throughout the lifecycle of DNS booststrapping written in Rust, Java, and Python.",
+        "Developed working knowledge of OCI's software defined networking and infrastructure systems, improved cross team effectiveness, and lead resolution of some tricky interdependency issues.",
+        "Developed key service features to significantly reduce operational load on our team and give more power to our users.",
+        "Lead resolution of critical operational concerns involving distributed, sometimes multithreaded systems, to maintain high availability and reliability of our team's services."
+      ]
+    },
+    {
+      "company": "C Squared Systems",
+      "position": "Lead Software Engineer - Critical Investigation and Development",
+      "location": "Manchester, NH",
+      "startDate": "Feb 2017",
+      "endDate": "May 2018",
+      "highlights": [
+        "Lead a team of 8 engineers responsible for the design, implementation, and analysis of software systems that aided detection and response to issues in production environments.",
+        "Worked directly with technical leadership to improve core software architecture and ability to process data from dozens of disparate RF and other telecom site devices.",
+        "Worked with and reported to CEO regarding team objectives and company-wide objectives relating to the software department.",
+        "Gave department-wide technical presentations to improve best practices and drive roadmap discussions."
+      ]
+    },
+    {
+      "company": "C Squared Systems",
+      "position": "Software Engineer - Critical Investigation and Development",
+      "location": "Manchester NH",
+      "startDate": "April 2015",
+      "endDate": "May 2017",
+      "highlights": [
+        "Designed and implemented a pipeline auditing system in PHP, and extended our reporting system, for use with enforcing SLA contract compliance. This system has internally assisted with troubleshooting and re-design of several core pipeline components.",
+        "Designed and implemented a device driver sub-system in C++ that can work with modems to poll for RF metrics, and set/synchronize the active frequency band between the modem and our monitoring platform.",
+        "Lead root cause analysis and corrective action efforts on customer-facing incidents, worked with other teams to reduce customer-facing regressions, worked directly with customers to ensure good product experience."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "Rust",
+        "Python",
+        "Java",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Work & Design Paradigms",
+      "level": "",
+      "keywords": [
+        "Object Oriented Design",
+        "Test Driven Development",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Git",
+        "Redis",
+        "Ansible",
+        "Docker",
+        "Software Defined Infrastructure",
+        "Monitoring & Profiling"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "FTR Engine",
+      "url": "https://github.com/tristanburgess/ftr_engine",
+      "keywords": [
+        "C++",
+        "Win32 API",
+        "MSVC"
+      ],
+      "description": "2D tilemap-based game engine project. Built a Windows platform layer, which provides memory arenas, live code editing, event recording and playback, multiple controller support, audo and display buffer management, and sparse world map storage. Implemented game code includes a BMP image loader and renderer, player movement with acceleration and friction, and support for primitive operations on vectors."
+    },
+    {
+      "name": "Hack Assembler",
+      "url": "https://github.com/tristanburgess/hack_assembler",
+      "description": "An assembler for the Hack machine language specified by the nand2tetris project. I have built a full lexer with test suite, with an LL(1) recursive descent parser in active development. ",
+      "keywords": [
+        "Rust",
+        "Cargo",
+        "Hack ASM"
+      ]
+    }
+  ],
+  "awards": [
+    {}
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "projects",
+    "work",
+    "skills",
+    "education",
+    "awards"
+  ]
+}
