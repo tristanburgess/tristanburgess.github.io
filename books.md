@@ -28,4 +28,5 @@ title: booklist
 
 ## Physics
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics)
+- [Feynman, Leighton, Sands - The Feynamn Lecture on Physics, Volume I: Mainly Mechanics, Radiation, and Heat](https://www.goodreads.com/book/show/17278.The_Feynman_Lectures_on_Physics_Vol_1)
 - [Young, Freedman - University Physics with Modern Physics](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics)
