@@ -15,6 +15,7 @@ title: booklist
 - [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 - [Marschner, Shirley - Fundamentals of Computer Graphics](https://www.goodreads.com/book/show/1933732.Fundamentals_of_Computer_Graphics)
 - [McDowell - Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
+- [Nisan - Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems){: #Nisan-Elements-Of-Computing-Systems}
 - [Patterson, Hennessy - Computer Organization and Design: The Hardware/Software Interface RISC-V Edition](https://www.goodreads.com/book/show/35270665-computer-organization-and-design-risc-v-edition)
 - [Sedgewick, Wayne - Algorithms](https://www.goodreads.com/en/book/show/10803540)
 - [Sedgewick, Wayne - Computer Science: An Interdisciplinary Approach](https://www.goodreads.com/book/show/26260896-computer-science)

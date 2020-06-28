@@ -10,7 +10,7 @@ Hello, that's me up there, Tristan.
 
 I have a strong interest in computer architecture, systems programming, math, physics, game engine technology, and in general: solving problems whether individually or collaboratively.
 
-- Initially, this page is mainly to keep track of a [worklog](/worklog.html) and [notebook](https://1drv.ms/f/s!AvHgsMnKfyushCHYwDylYyCTIKjc)
+- Initially, this page is mainly to keep track of a [worklog](/worklog.html) and [notebook](https://1drv.ms/u/s!AvHgsMnKfyush90dUU5mR_OlM4MvsA?e=UaYSOc)
 for all my non-code work. This includes notes and solutions to problems from [books](/books.html) and [classes](/classes.html) that I'm working through. My main focuses right now are to get a large, breadthy base of knowledge about computer science fundamentals, math, physics, systems programming, and computer architecture things that will help improve my low-level programming abilities. After which, I hope to become an active open source contributor on a project where I can further develop those skills.
 
 - My brother and I decided last November to get a simple game together for [Github's Game Off 2018](https://itch.io/jam/game-off-2018).
