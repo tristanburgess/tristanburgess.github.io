@@ -5,14 +5,21 @@ title: tristan's worklog
 
 # Worklog
 
-### Currently only tracking non-code (non-committed) work
-### Please note that you will need to sign in to [OneDrive](https://onedrive.live.com/about/en-us/signin/) with a Microsoft account before viewing notes/exercises links. I am currently seeking an alternative solution, but this is currently the only method I can provide due to sharing limitations inherent to OneNote.
+### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
+### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
+
+# 6/29/2020
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FIntroduction%7C9cacd6ae-267e-4602-8090-b1defc199637%2F%29&wdorigin=703)
+    - [Ch 1.1 - Calculation With Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Calculation%20with%20Integers%7Ccaa53c3c-b7f9-49fd-8b9b-ab04310e8a9f%2F%29&wdorigin=703)
+    - [Ch 1.2 - Representation With Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Representation%20of%20Integers%7C4997d02d-f3ef-49a2-899d-d812f50420fc%2F%29&wdorigin=703)
+      - A very small (probably incomplete) proof that took a bit of thought is included that base 10 can be converted to any other base B through repeated division.
 
 # 6/28/2020
   - [Elements of Computing Systems](/books.md#Nisan-Elements-Of-Computing-Systems)
     - [Ch 1.1 - Boolean Logic - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28nand2tetris.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.1%20Background%7C38e70493-4de6-45f0-9672-c0f6dbf5d153%2F%29&wdorigin=703)
         - Finished background notes, sections on HDL and hardware simulation, how hardware may actually be built and how software is used to reduce cost and increase efficiency in developing hardware.
-    - [1.2 - Boolean Logic - Specification](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28nand2tetris.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.2%20Specification%7C756cdf07-ac7d-494e-a2c1-e9f1ed6143e1%2F%29&wdorigin=703)
+    - [Ch 1.2 - Boolean Logic - Specification](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28nand2tetris.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.2%20Specification%7C756cdf07-ac7d-494e-a2c1-e9f1ed6143e1%2F%29&wdorigin=703)
         - Laid out details of how individual gates work logically/at an interface level, in preparation for doing project 1 of actually building out various logic gates. Covered multi bit input and multi way input versions of elemetary gates.
 
 # 6/27/2020
