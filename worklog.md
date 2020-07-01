@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 6/30/2020
+  - [Basic Mathematics](/books#Lang-Basic-Mathematics)
+    - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2FIntro%7Cbbb7d146-6792-4c74-990c-d6573d4af73c%2F%29&wdorigin=703)
+    - [Ch 1.1 - The Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.1%20-%20The%20Integers%7C94314c33-7a5e-4dd5-bb8c-a00b22d5bf7e%2F%29&wdorigin=703)
+    - [Ch 1.2 - Rules For Addition](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.2%20-%20Rules%20for%20Addition%7C205c2edb-69e4-4f5d-884a-a4e5919d9695%2F%29&wdorigin=703)
+
 # 6/29/2020
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FIntroduction%7C9cacd6ae-267e-4602-8090-b1defc199637%2F%29&wdorigin=703)
