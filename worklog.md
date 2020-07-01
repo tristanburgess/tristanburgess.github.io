@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/1/2020
+  - [Pragmatic Programmer](/books#Pragmatic-Programmer)
+    - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FIntro%7Ca7f33170-614f-48ad-a8b1-596c076699c3%2F%29&wdorigin=703)
+    - [Ch 1.1 - The Cat Ate My Source Code](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FThe%20Cat%20Ate%20My%20Source%20Code%7Cebf204ee-bc56-4b72-b712-895d01734ab9%2F%29&wdorigin=703)
+
 # 6/30/2020
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2FIntro%7Cbbb7d146-6792-4c74-990c-d6573d4af73c%2F%29&wdorigin=703)

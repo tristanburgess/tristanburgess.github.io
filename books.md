@@ -11,7 +11,7 @@ title: booklist
 - [Barroso, Clidaras, Hölzle - The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://www.goodreads.com/book/show/5732978-the-datacenter-as-a-computer)
 - [Bryant, O'Hallaron - Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/25403633-computer-systems)
 - [Cooper, Torczon - Engineering a Compiler](https://www.goodreads.com/book/show/3408316-engineering-a-compiler-second-edition)
-- [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){: #Pragmatic-Programmer}
 - [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 - [Marschner, Shirley - Fundamentals of Computer Graphics](https://www.goodreads.com/book/show/1933732.Fundamentals_of_Computer_Graphics)
 - [McDowell - Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
