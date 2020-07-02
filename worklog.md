@@ -11,6 +11,8 @@ title: tristan's worklog
 # 7/1/2020
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [Ch 1.1 - First Program](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.1%20-%20First%20Program%7C7b9bb3d5-8b19-4aad-98a9-ccfb7c88a9ef%2F%29&wdorigin=703)
+    - [Ch 1.2 - Built-in Types of Data](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.2%20-%20Built-In%20Types%20of%20Data%7C3aa2716d-e3f2-4e74-bfca-a4f6ab291718%2F%29&wdorigin=703)
+      - Started notes on this section, to be continued tomorrow.
 
   - [Pragmatic Programmer](/books#Pragmatic-Programmer)
     - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FIntro%7Ca7f33170-614f-48ad-a8b1-596c076699c3%2F%29&wdorigin=703)
