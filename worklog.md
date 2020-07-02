@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/2/2020
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [Ch 1.2 - Built-in Types of Data](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.2%20-%20Built-In%20Types%20of%20Data%7C3aa2716d-e3f2-4e74-bfca-a4f6ab291718%2F%29&wdorigin=703)
+      - Finished notes on this section.
+      
 # 7/1/2020
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [Ch 1.1 - First Program](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.1%20-%20First%20Program%7C7b9bb3d5-8b19-4aad-98a9-ccfb7c88a9ef%2F%29&wdorigin=703)
