@@ -12,6 +12,10 @@ title: tristan's worklog
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [Ch 1.2 - Built-in Types of Data](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.2%20-%20Built-In%20Types%20of%20Data%7C3aa2716d-e3f2-4e74-bfca-a4f6ab291718%2F%29&wdorigin=703)
       - Finished notes on this section.
+
+  - [Princeton COS 126 - CS Fundamentals](/classes#Princeton-COS-126)
+    - [Lecture 1 - Intro Java Parts 1 & 2](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Lecture%201%7C1593a12a-e1e0-4ac4-8809-b2c7ba0da76f%2F%29&wdorigin=703)
+    - [Lecture 2 - Intro Java Parts 3 & 4](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Lecture%202%20-%20Intro%20Java%20Parts%203%20%7Cc3ca94b6-ccdc-49b3-af06-d5ab1025826e%2F%29&wdorigin=703)
       
 # 7/1/2020
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
