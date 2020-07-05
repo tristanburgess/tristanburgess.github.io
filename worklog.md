@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/5/2020
+  - [Calculus Vol I](/books#Calculus-Vol-I)
+    - [Ch 1 Part 1 - I 1.4 Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%201%20-%20I%201.4%20Exercises%7C14027fce-a6fb-48b1-a60a-776dfa1c5ee8%2F%29&wdorigin=703)
+      - Exercises concerning Archimedes' method and generalizing to find exact area formulas for simple polynomial curves.
+
 # 7/4/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
     - [Ch 1 Part 1 - Historical Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%201%20-%20Historical%20Introduction%7Cdc289a0e-8cb7-48ba-abae-aebefb498ee3%2F%29&wdorigin=703)
