@@ -8,6 +8,13 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/6/2020
+  - [Feynman Physics Vol I](/books#Feynman-Physics-Vol-I)
+    - [Ch 1-1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-1%20Introduction%7Cd0229c30-f65f-4a0b-bf65-609cceac0a2c%2F%29&wdorigin=703)
+    - [Ch 1-2 - Matter is made of atoms](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-2%20Matter%20is%20made%20of%20atoms%7C15d51fbe-a54e-4ff8-94f4-fca88536c002%2F%29&wdorigin=703)
+    - [Ch 1-3 - Atomic processes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-3%20Atomic%20processes%7C79506f8a-5e5d-4df3-ba5d-ecd7729c4e54%2F%29&wdorigin=703)
+    - [Ch 1-4 - Chemical reactions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-4%20Chemical%20reactions%7C5c9bf056-cc88-4a7b-8971-15fc9838462f%2F%29&wdorigin=703)
+
 # 7/5/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
     - [Ch 1 Part 1 - I 1.4 Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%201%20-%20I%201.4%20Exercises%7C14027fce-a6fb-48b1-a60a-776dfa1c5ee8%2F%29&wdorigin=703)
