@@ -10,14 +10,17 @@ title: tristan's worklog
 
 # 7/6/2020
   - [Feynman Physics Vol I](/books#Feynman-Physics-Vol-I)
-    - [Ch 1-1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-1%20Introduction%7Cd0229c30-f65f-4a0b-bf65-609cceac0a2c%2F%29&wdorigin=703)
-    - [Ch 1-2 - Matter is made of atoms](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-2%20Matter%20is%20made%20of%20atoms%7C15d51fbe-a54e-4ff8-94f4-fca88536c002%2F%29&wdorigin=703)
-    - [Ch 1-3 - Atomic processes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-3%20Atomic%20processes%7C79506f8a-5e5d-4df3-ba5d-ecd7729c4e54%2F%29&wdorigin=703)
-    - [Ch 1-4 - Chemical reactions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-4%20Chemical%20reactions%7C5c9bf056-cc88-4a7b-8971-15fc9838462f%2F%29&wdorigin=703)
+    - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-1%20Introduction%7Cd0229c30-f65f-4a0b-bf65-609cceac0a2c%2F%29&wdorigin=703)
+    - [Ch 1.2 - Matter is made of atoms](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-2%20Matter%20is%20made%20of%20atoms%7C15d51fbe-a54e-4ff8-94f4-fca88536c002%2F%29&wdorigin=703)
+    - [Ch 1.3 - Atomic processes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-3%20Atomic%20processes%7C79506f8a-5e5d-4df3-ba5d-ecd7729c4e54%2F%29&wdorigin=703)
+    - [Ch 1.4 - Chemical reactions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-4%20Chemical%20reactions%7C5c9bf056-cc88-4a7b-8971-15fc9838462f%2F%29&wdorigin=703)
   
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
-    - [Ch 1-2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.2%20-%20Exercises%7C628caa2d-834c-4461-aea4-14cdfa1d0cd8%2F%29&wdorigin=703)
+    - [Ch 1.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.2%20-%20Exercises%7C628caa2d-834c-4461-aea4-14cdfa1d0cd8%2F%29&wdorigin=703)
       - Some simple exercises on proving some arithmetical identities using commutative and associative laws, and solving some simple algebraic linear equations.
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [Ch 1.3 - Computation in Systems Other than the Decimal](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Computation%20in%20Systems%20Other%20than%20the%20Decimal%7C3397978f-20e8-48b8-ae59-333c19680953%2F%29&wdorigin=703)   
 
 # 7/5/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
