@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/7/2020
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [Ch 1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7Ce4b7daf8-8d41-4d6b-9cef-10e89e4fc39d%2F%29&wdorigin=703)   
+      - Some exercises on working with arithmetic in different number bases. Got through exercises 1-3 and started on 4. Will finish next session.
+
 # 7/6/2020
   - [Feynman Physics Vol I](/books#Feynman-Physics-Vol-I)
     - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-1%20Introduction%7Cd0229c30-f65f-4a0b-bf65-609cceac0a2c%2F%29&wdorigin=703)
