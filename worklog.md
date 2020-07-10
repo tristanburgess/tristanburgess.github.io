@@ -11,7 +11,8 @@ title: tristan's worklog
 # 7/9/2020
   - [Computer Organization and Design](/books#Computer-Organization-And-Design)
     - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Introduction%7Cf02c03cd-2c75-485c-8e6b-4eb3f7d1b8c4%2F%29&wdorigin=703)
-    - [Ch 1.1 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
+    - [Ch 1.1 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
+    - [Ch 1.2 - Eight Great Ideas in Computer Architecture](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
 
 # 7/8/2020
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
