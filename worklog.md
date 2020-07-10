@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/9/2020
+  - [Computer Organization and Design](/books#Computer-Organization-And-Design)
+    - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Introduction%7Cf02c03cd-2c75-485c-8e6b-4eb3f7d1b8c4%2F%29&wdorigin=703)
+    - [Ch 1.1 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
+
 # 7/8/2020
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [Ch 1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7Ce4b7daf8-8d41-4d6b-9cef-10e89e4fc39d%2F%29&wdorigin=703)   
