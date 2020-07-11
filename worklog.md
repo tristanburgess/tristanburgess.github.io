@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/10/2020
+  - [Computer Organization and Design](/books#Computer-Organization-And-Design)
+    - [Ch 1.3 - Below Your Program](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.3%20-%20Below%20Your%20Program%7Cadb82d70-0e37-48ff-8258-aa4e6061f7ca%2F%29&wdorigin=703)
+      - Started these notes, will continue work + exercises tomorrow.
+
 # 7/9/2020
   - [Computer Organization and Design](/books#Computer-Organization-And-Design)
     - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Introduction%7Cf02c03cd-2c75-485c-8e6b-4eb3f7d1b8c4%2F%29&wdorigin=703)
