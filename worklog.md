@@ -8,15 +8,23 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/11/2020
+  - [Computer Organization and Design](/books#Computer-Organization-And-Design)
+    - [Ch 1.4 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.4%20-%20Check%20Yourself%7C26408ca7-5bcf-4db0-85ab-753f290939de%2F%29&wdorigin=703)
+    - [Ch 1.5 - Technologies for Building Processors and Memory](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.5%20-%20Technologies%20for%20Building%20Processors%20and%20Memory%7C046d46e1-ed09-4604-8180-9241d985e5ec%2F%29&wdorigin=703)
+    - [Ch 1.5 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.5%20-%20Check%20Yourself%7C34812cc2-3f0e-42f2-bcec-906bb0e2b8c4%2F%29&wdorigin=703)
+    - [Ch 1.6 - Performance](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.6%20-%20Performance%7C1610f4de-9f8f-49b3-ab28-2cf334aeef95%2F%29&wdorigin=703)
+    - [Ch 1.6 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.6%20-%20Check%20Yourself%7C74a164e5-c31b-44b4-9314-83a5d004a491%2F%29&wdorigin=703)
+
 # 7/10/2020
   - [Computer Organization and Design](/books#Computer-Organization-And-Design)
     - [Ch 1.3 - Below Your Program](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.3%20-%20Below%20Your%20Program%7Cadb82d70-0e37-48ff-8258-aa4e6061f7ca%2F%29&wdorigin=703)
-      - Started these notes, will continue work + exercises tomorrow.
+    - [Ch 1.4 - Under the Covers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.4%20-%20Under%20the%20Covers%7C99f281f4-bc04-4bb1-a005-5d15ea17a0d0%2F%29&wdorigin=703)
 
 # 7/9/2020
   - [Computer Organization and Design](/books#Computer-Organization-And-Design)
     - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Introduction%7Cf02c03cd-2c75-485c-8e6b-4eb3f7d1b8c4%2F%29&wdorigin=703)
-    - [Ch 1.1 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
+    - [Ch 1.1 - Check Yourself Exercises Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
     - [Ch 1.2 - Eight Great Ideas in Computer Architecture](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C451c8667-7d38-4c20-82b2-fe2aeaa8a69e%2F1.1%20-%20Check%20Yourself%7C34d2bdb4-5ae5-4676-ad0d-25204b2fc12e%2F%29&wdorigin=703)
 
 # 7/8/2020
