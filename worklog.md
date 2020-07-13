@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/12/2020
+  - [Computer Organization and Design](/books#Computer-Organization-And-Design)
+    - [Ch 1.7 - The Power Wall](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.7%20-%20The%20Power%20Wall%7C830ed897-e46e-4016-92fb-bc4eeddfccbe%2F%29&wdorigin=703)
+
 # 7/11/2020
   - [Computer Organization and Design](/books#Computer-Organization-And-Design)
     - [Ch 1.4 - Check Yourself Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.4%20-%20Check%20Yourself%7C26408ca7-5bcf-4db0-85ab-753f290939de%2F%29&wdorigin=703)
