@@ -8,6 +8,13 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/13/2020
+  - [Computer Organization and Design](/books#Computer-Organization-And-Design)
+    - [Ch 1.8 - The Sea Change - The Switch from Uniprocessors to Multiprocessors](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.8%20-%20The%20Sea%20Change%20-%20The%20Switch%20%7C1f76afdf-d5be-48bd-ae27-3d1071f75c34%2F%29&wdorigin=703)
+    - [Ch 1.9 - Benchmarking the Intel Core i7](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.9%20-%20Benchmarking%20the%20Intel%20Core%20i7%7Cce80b943-29a8-42cc-86b3-e9fd81313640%2F%29&wdorigin=703)
+    - [Ch 1.10 - Fallacies and Pitfalls](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.10%20-%20Fallacies%20and%20Pitfalls%7C00b6de76-0af0-4eb3-902e-f9e9602be32d%2F%29&wdorigin=703)
+    - [Ch 1.10 - Check Yourself](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.10%20-%20Check%20Yourself%7C932dd2a7-5813-4fd2-a700-92cb5ef69edb%2F%29&wdorigin=703)
+
 # 7/12/2020
   - [Computer Organization and Design](/books#Computer-Organization-And-Design)
     - [Ch 1.7 - The Power Wall](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2F1.7%20-%20The%20Power%20Wall%7C830ed897-e46e-4016-92fb-bc4eeddfccbe%2F%29&wdorigin=703)
