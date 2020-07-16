@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/15/2020
+  - [CS 61C - Great Ideas in Computer Architecture](/classes#UCB-CS61C)
+    - [Lecture 2 - C Intro, Pointers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2FCS61C%20-%20Lecture%202%20-%20C%20Intro%2C%20Pointers%7C34605f20-0fc9-4f03-8959-0b669cd120ff%2F%29&wdorigin=703)
+      - Finished lecture notes started yesterday.
+    - [Lecture 3 - C Arrays, Strings](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2FCS61C%20-%20Lecture%203%20-%20C%20Arrays%2C%20Strings%7Cba87e0a0-e9b3-4e0d-ab51-198b8f43128d%2F%29&wdorigin=703)
+
 # 7/14/2020
   - [CS 61C - Great Ideas in Computer Architecture](/classes#UCB-CS61C)
     - [Lecture 1 - Course Intro and Number Represenations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2FCS61C%20-%20Lecture%201%20-%20Course%20Intro%2C%20Number%20Repr%7C7fb5e898-90b2-44a8-88de-11d9f4ebe746%2F%29&wdorigin=703)
