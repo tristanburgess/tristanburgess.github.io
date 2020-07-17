@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/16/2020
+  - [CS 61C - Great Ideas in Computer Architecture](/classes#UCB-CS61C)
+    - [Lecture 4 - C Memory Management](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2FCS61C%20Lecture%204%20-%20C%20Memory%20Management%7C94816289-d3dc-473c-b6f6-0057dafe8469%2F%29&wdorigin=703)
+
 # 7/15/2020
   - [CS 61C - Great Ideas in Computer Architecture](/classes#UCB-CS61C)
     - [Lecture 2 - C Intro, Pointers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Organization%20and%20Design%20RISC-V%20Edition.one%7C9c4801c7-2d18-4714-85a4-2b5d52f99531%2FCS61C%20-%20Lecture%202%20-%20C%20Intro%2C%20Pointers%7C34605f20-0fc9-4f03-8959-0b669cd120ff%2F%29&wdorigin=703)
