@@ -33,7 +33,7 @@ title: booklist
 - [Lang - Geometry](https://www.goodreads.com/book/show/737512.Geometry){: #Lang-Geometry}
 - [Lehman, Leighton, Meyer - Mathematics for Computer Science](https://www.goodreads.com/book/show/34554089-mathematics-for-computer-science)
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
-- [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering)
+- [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 
 ## Physics
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics)

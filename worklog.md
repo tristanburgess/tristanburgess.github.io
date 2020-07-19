@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/18/2020
+  - [Riley, Hobson - Mathematical Methods for Physics and Engineering](/books#RHB-Math-Methods-4-Physics)
+    - [Ch 1.1 - Simple Functions and Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Mathematical%20Methods%20for%20Physics%20and%20Engineering.one%7Cc573fcf7-5283-4020-a99c-dd71e662372d%2F1.1%20-%20Simple%20Functions%20and%20Equations%7Cdeb661ad-2e2c-4f3f-85b7-7cc54b917c2a%2F%29&wdorigin=703)
+      - Notes and worked examples. I did not work a derivation of [Vieta's formulas](https://en.wikipedia.org/wiki/Vieta%27s_formulas) correlating polynomial coefficients with roots to a general power, though seems like a fun exercise for another time. 
+
 # 7/17/2020
   - [Lang - Geometry](/books#Lang-Geometry)
     - [Ch 1.1 - Lines](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Geometry.one%7Ce7315b55-c045-40ae-bee2-eb9fb0fe635e%2F1.1%20-%20Lines%7Cffd09adf-1425-4a37-9f4e-13ec33c38efe%2F%29&wdorigin=703)
