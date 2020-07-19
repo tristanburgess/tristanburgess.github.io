@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/19/2020
+  - [Polya - How To Solve It](/books#How-To-Solve-It)
+    - [Summary - The Method](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28How%20to%20Solve%20It.one%7Cd0aa4e8f-545c-4c13-9f76-7abf7d5760a9%2FThe%20Method%7C0691f7f6-7932-4811-9a54-52f8c6c8316b%2F%29&wdorigin=703)
+    - [Part 1.1 - Purpose](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28How%20to%20Solve%20It.one%7Cd0aa4e8f-545c-4c13-9f76-7abf7d5760a9%2FPurpose%7C1b1aca72-7654-442a-8b47-66507fa83ecb%2F%29&wdorigin=703)
+
 # 7/18/2020
   - [Riley, Hobson - Mathematical Methods for Physics and Engineering](/books#RHB-Math-Methods-4-Physics)
     - [Ch 1.1 - Simple Functions and Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Mathematical%20Methods%20for%20Physics%20and%20Engineering.one%7Cc573fcf7-5283-4020-a99c-dd71e662372d%2F1.1%20-%20Simple%20Functions%20and%20Equations%7Cdeb661ad-2e2c-4f3f-85b7-7cc54b917c2a%2F%29&wdorigin=703)
