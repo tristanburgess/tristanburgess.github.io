@@ -36,7 +36,7 @@ title: booklist
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 
 ## Physics
-- [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics)
+- [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics, Volume I: Mainly Mechanics, Radiation, and Heat](https://www.goodreads.com/book/show/17278.The_Feynman_Lectures_on_Physics_Vol_1){: #Feynman-Physics-Vol-I}
 - [Young, Freedman - University Physics with Modern Physics](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics)

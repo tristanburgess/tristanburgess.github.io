@@ -13,6 +13,15 @@ title: tristan's worklog
     - [Summary - The Method](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28How%20to%20Solve%20It.one%7Cd0aa4e8f-545c-4c13-9f76-7abf7d5760a9%2FThe%20Method%7C0691f7f6-7932-4811-9a54-52f8c6c8316b%2F%29&wdorigin=703)
     - [Part 1.1 - Purpose](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28How%20to%20Solve%20It.one%7Cd0aa4e8f-545c-4c13-9f76-7abf7d5760a9%2FPurpose%7C1b1aca72-7654-442a-8b47-66507fa83ecb%2F%29&wdorigin=703)
 
+  - [Epstein - Thinking Physics](/books#Epstein-Thinking-Physics)
+    - [Mechanics - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FMechanics%7C47923ca5-c7b2-440b-8ee3-7aea77800dcf%2F%29&wdorigin=703)
+    - [Visualize It](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FVisualize%20It%7C1bf5ae1b-5070-4855-9178-e07291c6d56f%2F%29&wdorigin=703)
+    - [Integral Calculus](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FIntegral%20Calculus%7Cd4e7c35e-ecba-4b78-a5c2-5edb1ed5837a%2F%29&wdorigin=703)
+    - [Dragster](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FDragster%7C86ccfccd-1f15-40a1-b3bb-2b50e9cef3a7%2F%29&wdorigin=703)
+    - [No Speedometer](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FNo%20Speedometer%7C37672e50-d0d6-4064-9425-60d3f8e81ac1%2F%29&wdorigin=703)
+    - [Not Far](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FNot%20Far%7C6b625a6c-1178-4c94-adeb-8abd4c49a048%2F%29&wdorigin=703)
+    - [The Bikes and the Bee](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Thinking%20Physics.one%7C9c9b68db-3d3d-4f2f-b9fa-4f987fb78e0f%2FThe%20Bikes%20and%20the%20Bee%7Cc1832712-9832-4b34-bab1-3b1a718cc43b%2F%29&wdorigin=703)
+
 # 7/18/2020
   - [Riley, Hobson - Mathematical Methods for Physics and Engineering](/books#RHB-Math-Methods-4-Physics)
     - [Ch 1.1 - Simple Functions and Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Mathematical%20Methods%20for%20Physics%20and%20Engineering.one%7Cc573fcf7-5283-4020-a99c-dd71e662372d%2F1.1%20-%20Simple%20Functions%20and%20Equations%7Cdeb661ad-2e2c-4f3f-85b7-7cc54b917c2a%2F%29&wdorigin=703)
