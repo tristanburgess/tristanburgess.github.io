@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/20/20
+  - [Basic Mathematics](/books#Lang-Basic-Mathematics)
+    - [Ch 1.3 - Rules for Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.3%20-%20Rules%20for%20Multiplication%7Cad483ea5-86cc-4ada-a4c4-0b30db4ef579%2F%29&wdorigin=703)
+    - [Ch 1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.3%20-%20Exercises%7C1bc40326-66e0-4462-a910-2c0ec49d6a06%2F%29&wdorigin=703)
+
 # 7/19/2020
   - [Polya - How To Solve It](/books#How-To-Solve-It)
     - [Summary - The Method](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28How%20to%20Solve%20It.one%7Cd0aa4e8f-545c-4c13-9f76-7abf7d5760a9%2FThe%20Method%7C0691f7f6-7932-4811-9a54-52f8c6c8316b%2F%29&wdorigin=703)
