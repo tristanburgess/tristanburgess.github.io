@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/21/20
+  - [Basic Mathematics](/books#Lang-Basic-Mathematics)
+    - [Ch 1.4 - Even and Odd Integers; Divisibility](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.4%20-%20Even%20and%20Odd%20Integers%3B%20Divisibility%7C433e94fe-2dc4-4e44-9f1a-ec9951931625%2F%29&wdorigin=703)
+    - [Ch 1.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.4%20-%20Exercises%7Ca3802236-5f4a-4edb-af54-781e787b7537%2F%29&wdorigin=703)
+
 # 7/20/20
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.3 - Rules for Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.3%20-%20Rules%20for%20Multiplication%7Cad483ea5-86cc-4ada-a4c4-0b30db4ef579%2F%29&wdorigin=703)
