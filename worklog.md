@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/22/20
+  - [Basic Mathematics](/books#Lang-Basic-Mathematics)
+    - [Ch 1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.5%20-%20Exercises%7C3f1e18ad-484c-4fe8-878d-701a1a30e361%2F%29&wdorigin=703)
+      - Solving some basic algebraic equations involving rationals, manipulation and showing of some basic identities of factorials and binomial coefficients. Ended after problem 7, will continue next session.
+
 # 7/21/20
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.4 - Even and Odd Integers; Divisibility](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.4%20-%20Even%20and%20Odd%20Integers%3B%20Divisibility%7C433e94fe-2dc4-4e44-9f1a-ec9951931625%2F%29&wdorigin=703)
