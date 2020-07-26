@@ -11,6 +11,11 @@ title: tristan's worklog
 # 7/22/20
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.5%20-%20Exercises%7C3f1e18ad-484c-4fe8-878d-701a1a30e361%2F%29&wdorigin=703)
+      - Finishing off with some exercises on finding and estiamting square and cube roots, and exponential decay.
+
+# 7/22/20
+  - [Basic Mathematics](/books#Lang-Basic-Mathematics)
+    - [Ch 1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.5%20-%20Exercises%7C3f1e18ad-484c-4fe8-878d-701a1a30e361%2F%29&wdorigin=703)
       - Solving some basic algebraic equations involving rationals, manipulation and showing of some basic identities of factorials and binomial coefficients. Ended after problem 7, will continue next session.
 
   - [University Physics](/books#FY-University-Physics)
