@@ -12,6 +12,8 @@ title: tristan's worklog
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.5%20-%20Exercises%7C3f1e18ad-484c-4fe8-878d-701a1a30e361%2F%29&wdorigin=703)
       - Finishing off with some exercises on finding and estiamting square and cube roots, and exponential decay.
+    - [Ch 1.6 - Multiplicative Inverses](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.6%20-%20Multiplicative%20Inverses%7Ca30278f9-7ad9-4565-a541-f5fe5c888ea9%2F%29&wdorigin=703)
+    - [Ch 1.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.6%20-%20Exercises%7C4022c9d6-c140-4fc3-a0d8-78195c70707a%2F%29&wdorigin=703)
 
 # 7/22/20
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
