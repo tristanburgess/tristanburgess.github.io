@@ -8,7 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
-# 7/22/20
+# 7/27/20
+  - [Riley, Hobson - Mathematical Methods for Physics and Engineering](/books#RHB-Math-Methods-4-Physics)
+    - [Ch 1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Mathematical%20Methods%20for%20Physics%20and%20Engineering.one%7Cc573fcf7-5283-4020-a99c-dd71e662372d%2F1.1%20-%20Exercises%7Ceafed9a2-db14-4992-b4bc-78a723aee147%2F%29&wdorigin=703)
+      - Completed the odd numbered exercises on the analysis of polynomial equations, root finding, curve sketching etc.
+
+# 7/26/20
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.5%20-%20Exercises%7C3f1e18ad-484c-4fe8-878d-701a1a30e361%2F%29&wdorigin=703)
       - Finishing off with some exercises on finding and estiamting square and cube roots, and exponential decay.
