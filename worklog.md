@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 7/28/20
+  - [University Physics](/books#FY-University-Physics)
+    - [Ch 1.3 - Standards and Units](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.3%20-%20Standards%20and%20Units%7C2a540c03-c3a5-4701-92df-855e42c783bd%2F%29&wdorigin=703)
+    - [Ch 1.4 - Using and Converting Units](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.4%20-%20Using%20and%20Converting%20Units%7Ca13017d5-e022-4185-975b-f21cae34ef14%2F%29&wdorigin=703)
+
 # 7/27/20
   - [Riley, Hobson - Mathematical Methods for Physics and Engineering](/books#RHB-Math-Methods-4-Physics)
     - [Ch 1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Mathematical%20Methods%20for%20Physics%20and%20Engineering.one%7Cc573fcf7-5283-4020-a99c-dd71e662372d%2F1.1%20-%20Exercises%7Ceafed9a2-db14-4992-b4bc-78a723aee147%2F%29&wdorigin=703)
