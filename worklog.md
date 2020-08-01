@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/1/20
+  - Regular work has been in full force the past week, with not much time to decompress in between. This has included working late into yesterday evening and then getting paged late at night. Not much sleep to be had after that. Anyways, I'm resuming some studious normalcy today.
+  
+  - [University Physics](/books#FY-University-Physics)
+    - [1.5 - Uncertainty and Significant Figures](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&page=Edit&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.5%20-%20Uncertainty%20and%20Significant%20Figures%7C060b3db9-e9bb-4f01-a18e-680e432e2cf1%2F%29&wdorigin=703)
+
 # 7/28/20
   - [University Physics](/books#FY-University-Physics)
     - [Ch 1.3 - Standards and Units](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.3%20-%20Standards%20and%20Units%7C2a540c03-c3a5-4701-92df-855e42c783bd%2F%29&wdorigin=703)
