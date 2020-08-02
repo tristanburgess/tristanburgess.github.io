@@ -13,6 +13,11 @@ title: tristan's worklog
   
   - [University Physics](/books#FY-University-Physics)
     - [1.5 - Uncertainty and Significant Figures](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&page=Edit&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.5%20-%20Uncertainty%20and%20Significant%20Figures%7C060b3db9-e9bb-4f01-a18e-680e432e2cf1%2F%29&wdorigin=703)
+    - [1.6 - Estimates and Orders of Magnitude](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.6%20-%20Estimates%20and%20Orders%20of%20Magnitude%7C74eeac03-6f67-4e50-b5be-44fe81f36da0%2F%29&wdorigin=703)
+    - [1.7 - Vectors and Vector Addition](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.7%20-%20Vectors%20and%20Vector%20Addition%7C7f7c246b-a346-45f1-b32f-25f0907cd6dc%2F%29&wdorigin=703)
+
+  - [Calculus Vol I](/books#Calculus-Vol-I)
+    - [Part 2 - Some Basic Concepts of the Theory of Sets](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%202%20-%20Some%20Basic%20Concepts%20of%20the%20Theory%20of%20%7C8b57ecad-fcf8-44d9-a15d-a69843cf2ae0%2F%29&wdorigin=703)
 
 # 7/28/20
   - [University Physics](/books#FY-University-Physics)
