@@ -8,6 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/2/20
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [1.3 - Conditionals and Loops](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Conditionals%20and%20Loops%7C4d60212c-2cbf-40aa-9ef3-13239003d3ad%2F%29&wdorigin=703)
+      - Started notes on this section, will finish next session.
+
+  - [Princeton COS 126 - CS Fundamentals](/classes#Princeton-COS-126)
+    - [Precept 2 - Data Types](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Precept%202%20-%20Data%20Types%7Ca09ba09b-3fb2-4106-8b18-65f6dbfcc210%2F%29&wdorigin=703)
+      - Some practice questions involving comparisons involving expressions of different built in data types.
+
+
 # 8/1/20
   - Regular work has been in full force the past week, with not much time to decompress in between. This has included working late into yesterday evening and then getting paged late at night. Not much sleep to be had after that. Anyways, I'm resuming some studious normalcy today.
   
