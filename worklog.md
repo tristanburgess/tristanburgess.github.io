@@ -8,6 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/2/20
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [1.3 - Conditionals and Loops](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Conditionals%20and%20Loops%7C4d60212c-2cbf-40aa-9ef3-13239003d3ad%2F%29&wdorigin=703)
+      - Started notes on this section, will finish next session.
+
+  - [Princeton COS 126 - CS Fundamentals](/classes#Princeton-COS-126)
+    - [Precept 2 - Data Types](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Precept%202%20-%20Data%20Types%7Ca09ba09b-3fb2-4106-8b18-65f6dbfcc210%2F%29&wdorigin=703)
+      - Some practice questions involving comparisons involving expressions of different built in data types.
+
+
 # 8/1/20
   - Regular work has been in full force the past week, with not much time to decompress in between. This has included working late into yesterday evening and then getting paged late at night. Not much sleep to be had after that. Anyways, I'm resuming some studious normalcy today.
   
@@ -32,7 +42,7 @@ title: tristan's worklog
 # 7/26/20
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.5%20-%20Exercises%7C3f1e18ad-484c-4fe8-878d-701a1a30e361%2F%29&wdorigin=703)
-      - Finishing off with some exercises on finding and estiamting square and cube roots, and exponential decay.
+      - Finishing off with some exercises on finding and estimating square and cube roots, and exponential decay.
     - [Ch 1.6 - Multiplicative Inverses](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.6%20-%20Multiplicative%20Inverses%7Ca30278f9-7ad9-4565-a541-f5fe5c888ea9%2F%29&wdorigin=703)
     - [Ch 1.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.6%20-%20Exercises%7C4022c9d6-c140-4fc3-a0d8-78195c70707a%2F%29&wdorigin=703)
 
