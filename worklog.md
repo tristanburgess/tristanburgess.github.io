@@ -8,10 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/6/20
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [1.3 - Conditionals and Loops](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Conditionals%20and%20Loops%7C4d60212c-2cbf-40aa-9ef3-13239003d3ad%2F%29&wdorigin=703)
+      - Work has been still pretty crazy lately. Not a lot of decompress time to pivot towards other work. I got another 15-20 pages in today for this section, going to continue tomorrow.
+
 # 8/2/20
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [1.3 - Conditionals and Loops](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Conditionals%20and%20Loops%7C4d60212c-2cbf-40aa-9ef3-13239003d3ad%2F%29&wdorigin=703)
-      - Started notes on this section, will finish next session.
+      - Started notes on this section, will continue next session.
 
   - [Princeton COS 126 - CS Fundamentals](/classes#Princeton-COS-126)
     - [Precept 2 - Data Types](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Precept%202%20-%20Data%20Types%7Ca09ba09b-3fb2-4106-8b18-65f6dbfcc210%2F%29&wdorigin=703)
