@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/7/20
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [1.3 - Conditionals and Loops](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Conditionals%20and%20Loops%7C4d60212c-2cbf-40aa-9ef3-13239003d3ad%2F%29&wdorigin=703)
+      - Finally finished the notes and examples from this section, onto the next one!
+
 # 8/6/20
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [1.3 - Conditionals and Loops](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Conditionals%20and%20Loops%7C4d60212c-2cbf-40aa-9ef3-13239003d3ad%2F%29&wdorigin=703)
