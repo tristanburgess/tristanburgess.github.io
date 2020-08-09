@@ -226,9 +226,9 @@ title: tristan's worklog
 
 # 6/28/2020
   - [Elements of Computing Systems](/books.md#Nisan-Elements-Of-Computing-Systems)
-    - [Ch 1.1 - Boolean Logic - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28nand2tetris.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.1%20Background%7C38e70493-4de6-45f0-9672-c0f6dbf5d153%2F%29&wdorigin=703)
+    - [Ch 1.1 - Boolean Logic - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Elements%20of%20Computing%20Systems.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.1%20Background%7C38e70493-4de6-45f0-9672-c0f6dbf5d153%2F%29&wdorigin=703)
         - Finished background notes, sections on HDL and hardware simulation, how hardware may actually be built and how software is used to reduce cost and increase efficiency in developing hardware.
-    - [Ch 1.2 - Boolean Logic - Specification](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28nand2tetris.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.2%20Specification%7C756cdf07-ac7d-494e-a2c1-e9f1ed6143e1%2F%29&wdorigin=703)
+    - [Ch 1.2 - Boolean Logic - Specification](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Elements%20of%20Computing%20Systems.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.2%20Specification%7C756cdf07-ac7d-494e-a2c1-e9f1ed6143e1%2F%29&wdorigin=703)
         - Laid out details of how individual gates work logically/at an interface level, in preparation for doing project 1 of actually building out various logic gates. Covered multi bit input and multi way input versions of elemetary gates.
 
 # 6/27/2020

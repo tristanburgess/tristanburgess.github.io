@@ -13,10 +13,13 @@ title: booklist
 - [Cooper, Torczon - Engineering a Compiler](https://www.goodreads.com/book/show/3408316-engineering-a-compiler-second-edition)
 - [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){: #Pragmatic-Programmer}
 - [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+- [Kurose, Ross - Computer Networking: A Top-Down Approach](https://www.goodreads.com/book/show/83847.Computer_Networking)
 - [Marschner, Shirley - Fundamentals of Computer Graphics](https://www.goodreads.com/book/show/1933732.Fundamentals_of_Computer_Graphics)
 - [McDowell - Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - [Nisan - Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems){: #Nisan-Elements-Of-Computing-Systems}
 - [Patterson, Hennessy - Computer Organization and Design: The Hardware/Software Interface RISC-V Edition](https://www.goodreads.com/book/show/35270665-computer-organization-and-design-risc-v-edition){: #Computer-Organization-And-Design}
+- [Russell, Norvig - Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
+- [Skiena - The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
 - [Sedgewick, Wayne - Algorithms](https://www.goodreads.com/en/book/show/10803540)
 - [Sedgewick, Wayne - Computer Science: An Interdisciplinary Approach](https://www.goodreads.com/book/show/26260896-computer-science){: #Computer-Science-AIA}
 
@@ -39,4 +42,5 @@ title: booklist
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics, Volume I: Mainly Mechanics, Radiation, and Heat](https://www.goodreads.com/book/show/17278.The_Feynman_Lectures_on_Physics_Vol_1){: #Feynman-Physics-Vol-I}
+- [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics)
 - [Young, Freedman - University Physics with Modern Physics](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics){: #FY-University-Physics}
