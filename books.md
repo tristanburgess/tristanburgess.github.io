@@ -30,7 +30,7 @@ title: booklist
 - [Gelfand - Algebra](https://www.goodreads.com/book/show/2140100.Algebra)
 - [Gelfand - Trigonometry](https://www.goodreads.com/book/show/1414631.Trigonometry)
 - [Gelfand - The Method of Coordinates](https://www.goodreads.com/book/show/946677.The_Method_of_Coordinates)
-- [Gelfand - Functions and Graphs](https://www.goodreads.com/book/show/8796338-functions-and-graphs)
+- [Gelfand - Functions and Graphs](https://www.goodreads.com/book/show/8796338-functions-and-graphs){: #Gelfand-Functions-and-Graphs}
 - [Graham, Knuth, Pratashnik - Concrete Mathematic: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics)
 - [Lang - Basic Mathematics](https://www.goodreads.com/book/show/79781.Basic_Mathematics){: #Lang-Basic-Mathematics}
 - [Lang - Geometry](https://www.goodreads.com/book/show/737512.Geometry){: #Lang-Geometry}

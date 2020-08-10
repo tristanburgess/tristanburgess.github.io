@@ -8,6 +8,19 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/9/20
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [1.4 - Arrays](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.4%20-%20Arrays%7C5cb89ec7-e25d-4ed5-b656-2e4edd1812da%2F%29&wdorigin=703)
+      - Finished notes for this section.
+
+  - [Gelfand - Functions and Graphs](/books#Gelfand-Functions-and-Graphs)
+    - [Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Gelfand%20Functions%20and%20Graphs.one%7C535fae3c-7dcc-4be8-9ef0-dc53fd3470c2%2FIntroduction%7C0814c744-7f65-4161-b4e7-0e4755a6a09b%2F%29&wdorigin=703)
+      - Worked through very basic definition of mathematical function and some examples.
+
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Arithmetic - Addition](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FAddition%7Cc330347b-bb60-4d54-b778-5d30fb7de77b%2F%29&wdorigin=703)
+      - These may be too basic for a bit, but AoPS's Alcumus tool with adaptive problem difficulty seems like a great way to make sure my basic math and problem solving skills are polished.
+
 # 8/8/20
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [1.4 - Arrays](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.4%20-%20Arrays%7C5cb89ec7-e25d-4ed5-b656-2e4edd1812da%2F%29&wdorigin=703)
