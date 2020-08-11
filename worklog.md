@@ -8,6 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/10/20
+  - [nand2tetris](/classes#nand2tetris)
+    - [Project 1 - Boolean Logic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Elements%20of%20Computing%20Systems.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2Fnand2tetris%20Project%201%20-%20Boolean%20Logic%7C14990a1b-fa48-43ac-98cd-4f96f8458e4a%2F%29&wdorigin=703)
+      - Added notes for boolean logic chip truth tables derived prior to HDL implementations. HDL code tested and committed today as well, so project 1 is done!
+  
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Arithmetic - Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMultiplication%7Cbee05f7c-e945-4a99-807a-b667b8a3e137%2F%29&wdorigin=703)
+    - [Prealgebra - Arithmetic - Negatives](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FNegatives%7C6e8700b2-0107-4af9-966f-2ac8fab0e23c%2F%29&wdorigin=703)
+      - Started this section to keep up with about 5 problems a day pace.
+
 # 8/9/20
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [1.4 - Arrays](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.4%20-%20Arrays%7C5cb89ec7-e25d-4ed5-b656-2e4edd1812da%2F%29&wdorigin=703)
@@ -248,7 +258,7 @@ title: tristan's worklog
   - Work's been really busy, so getting started into the swing of things has been slow going. I'm going to find 30 minutes each day for this though, as this is a marathon effort.
   - Kept it fairly easy, got many book prefaces out of the way as a primer
   - [Elements of Computing Systems](/books.md#Nisan-Elements-Of-Computing-Systems)
-    - [Ch 1.1 - Boolean Logic - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28nand2tetris.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.1%20Background%7C38e70493-4de6-45f0-9672-c0f6dbf5d153%2F%29&wdorigin=703)
+    - [Ch 1.1 - Boolean Logic - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Elements%20of%20Computing%20Systems.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2F1.1%20Background%7C38e70493-4de6-45f0-9672-c0f6dbf5d153%2F%29&wdorigin=703)
         - Started notes on Chapter 1, working through the basics on boolean algebra and roughly how it is implemented by computing hardware. Touching on some of the basics of interface vs implementation and the like.
 
 # 6/7/2020
