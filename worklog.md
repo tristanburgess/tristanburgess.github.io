@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/11/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Arithmetic - Negatives](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FNegatives%7C6e8700b2-0107-4af9-966f-2ac8fab0e23c%2F%29&wdorigin=703)
+      - Just a couple problems tonight due to work running late and tiredness.
+
 # 8/10/20
   - [nand2tetris](/classes#nand2tetris)
     - [Project 1 - Boolean Logic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Elements%20of%20Computing%20Systems.one%7C7023e437-ae5b-224e-aae5-96f701e767a5%2Fnand2tetris%20Project%201%20-%20Boolean%20Logic%7C14990a1b-fa48-43ac-98cd-4f96f8458e4a%2F%29&wdorigin=703)
