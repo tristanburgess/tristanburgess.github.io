@@ -8,9 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/13/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Arithmetic - Reciprocals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSubtraction%7C36ecc95f-26af-45df-abb0-77b81a1579be%2F%29&wdorigin=703)
+    - [Prealgebra - Arithmetic - Division](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSubtraction%7C36ecc95f-26af-45df-abb0-77b81a1579be%2F%29&wdorigin=703)
+      - More Alcumus only due to tiredness. Will try to resume more work tomorrow!
+
 # 8/12/20
   - [AoPS Alcumus](/classes#Alcumus)
-    - [Prealgebra - Arithmetic - Subtraction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSubtraction%7C36ecc95f-26af-45df-abb0-77b81a1579be%2F%29&wdorigin=703)
+    - [Prealgebra - Arithmetic - Subtraction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FReciprocals%7Ce9ba1630-e1c2-418e-b0bf-01c7b8455b83%2F%29&wdorigin=703)
       - Just a couple problems tonight due to work running late and tiredness, again..
 
 # 8/11/20
