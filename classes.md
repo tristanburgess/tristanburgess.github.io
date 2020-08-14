@@ -5,7 +5,7 @@ title: classlist
 
 # Classlist
 
-## Computer Science
+## [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 - [CMU 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
 - [Hack The Kernel](https://github.com/ops-class)
 - [nand2tetris](https://www.nand2tetris.org/){: #nand2tetris}
@@ -18,6 +18,6 @@ title: classlist
 - [UC Berkeley - CS 188 - Intro to AI](http://ai.berkeley.edu/home.html)
 - [University of Washington - CSE P 501 - Compiler Construction](https://courses.cs.washington.edu/courses/csep501/18sp/)
 
-## Math
+## [Math](https://en.wikipedia.org/wiki/Mathematics)
 - [AoPS - Alcumus](https://artofproblemsolving.com/alcumus){: #Alcumus}
 - [MIT - 6.042j - Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
