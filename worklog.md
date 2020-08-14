@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/14/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Squares](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSquares%7C143a508c-1ba2-444c-97c4-24fd47905a31%2F%29&wdorigin=703)
+    - [Prealgebra - General Positive Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGeneral%20Positive%20Exponents%7C54d05f7e-3b26-454a-aa98-43178080e333%2F%29&wdorigin=703)
+      - Started this section, will continue next session.
+
 # 8/13/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Arithmetic - Reciprocals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSubtraction%7C36ecc95f-26af-45df-abb0-77b81a1579be%2F%29&wdorigin=703)
