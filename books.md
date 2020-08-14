@@ -35,6 +35,7 @@ title: booklist
 - [Lang - Basic Mathematics](https://www.goodreads.com/book/show/79781.Basic_Mathematics){: #Lang-Basic-Mathematics}
 - [Lang - Geometry](https://www.goodreads.com/book/show/737512.Geometry){: #Lang-Geometry}
 - [Lehman, Leighton, Meyer - Mathematics for Computer Science](https://www.goodreads.com/book/show/34554089-mathematics-for-computer-science)
+- [Morin - Probability: For the Enthusiastic Beginner](https://www.goodreads.com/en/book/show/29991429-probability)
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 
@@ -43,4 +44,5 @@ title: booklist
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics, Volume I: Mainly Mechanics, Radiation, and Heat](https://www.goodreads.com/book/show/17278.The_Feynman_Lectures_on_Physics_Vol_1){: #Feynman-Physics-Vol-I}
 - [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics)
+- [Morin - Special Relativity: For the Enthusiastic Beginner](https://www.goodreads.com/book/show/34025346-special-relativity)
 - [Young, Freedman - University Physics with Modern Physics](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics){: #FY-University-Physics}
