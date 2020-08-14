@@ -14,6 +14,14 @@ title: tristan's worklog
     - [Prealgebra - General Positive Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGeneral%20Positive%20Exponents%7C54d05f7e-3b26-454a-aa98-43178080e333%2F%29&wdorigin=703)
       - Started this section, will continue next session.
 
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [1.2.1 - The Principle of Mathematical Induction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20The%20Principle%20of%20Mathematical%20Induction%7Cdcbd817e-a6f5-4abe-acad-35b495de34ca%2F%29&wdorigin=703)
+    - [1.2.2 - The Arithmetical Progression](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Arithmetical%20Progression%7Cf82e5284-7766-4175-85bb-1b7894d61020%2F%29&wdorigin=703)
+    - [1.2.3 - The Geometrical Progression](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20The%20Geometrical%20Progression%7C34d5fc9a-2f60-4e91-9f18-d4a74f6489b9%2F%29&wdorigin=703)
+    - [1.2.4 - The Sum of the First n Squares](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20The%20Sum%20of%20the%20First%20n%20Squares%7Ca67d3613-f200-4b2f-90aa-6d424ac3d19e%2F%29&wdorigin=703)
+    - [1.2.4 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Exercise%7Ceaaa925a-4d77-484d-9551-48352c926080%2F%29&wdorigin=703)
+      - An induction proof exercise on the sum of the first n cubes.
+
 # 8/13/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Arithmetic - Reciprocals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSubtraction%7C36ecc95f-26af-45df-abb0-77b81a1579be%2F%29&wdorigin=703)
@@ -199,7 +207,7 @@ title: tristan's worklog
 
 # 7/8/2020
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [Ch 1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7Ce4b7daf8-8d41-4d6b-9cef-10e89e4fc39d%2F%29&wdorigin=703)   
+    - [1.1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7Ce4b7daf8-8d41-4d6b-9cef-10e89e4fc39d%2F%29&wdorigin=703)   
       - Finishing up the rest of the exercises started yesterday.
 
 # 7/7/2020
@@ -219,7 +227,7 @@ title: tristan's worklog
       - Some simple exercises on proving some arithmetical identities using commutative and associative laws, and solving some simple algebraic linear equations.
 
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [Ch 1.3 - Computation in Systems Other than the Decimal](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Computation%20in%20Systems%20Other%20than%20the%20Decimal%7C3397978f-20e8-48b8-ae59-333c19680953%2F%29&wdorigin=703)   
+    - [1.1.3 - Computation in Systems Other than the Decimal](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Computation%20in%20Systems%20Other%20than%20the%20Decimal%7C3397978f-20e8-48b8-ae59-333c19680953%2F%29&wdorigin=703)   
 
 # 7/5/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
@@ -265,8 +273,9 @@ title: tristan's worklog
 # 6/29/2020
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [Ch 1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FIntroduction%7C9cacd6ae-267e-4602-8090-b1defc199637%2F%29&wdorigin=703)
-    - [Ch 1.1 - Calculation With Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Calculation%20with%20Integers%7Ccaa53c3c-b7f9-49fd-8b9b-ab04310e8a9f%2F%29&wdorigin=703)
-    - [Ch 1.2 - Representation With Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Representation%20of%20Integers%7C4997d02d-f3ef-49a2-899d-d812f50420fc%2F%29&wdorigin=703)
+    - [1.1.1 - Laws of Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Laws%20of%20Arithmetic%7Ccaa53c3c-b7f9-49fd-8b9b-ab04310e8a9f%2F%29&wdorigin=703)
+    - [1.1.2 - Representation With Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Representation%20of%20Integers%7C4997d02d-f3ef-49a2-899d-d812f50420fc%2F%29&wdorigin=703)
+    - [1.1.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercise%7Cef5e2e69-e8fd-4759-aa2e-b036ba3b8808%2F%29&wdorigin=703)
       - A very small (probably incomplete) proof that took a bit of thought is included that base 10 can be converted to any other base B through repeated division.
 
 # 6/28/2020
