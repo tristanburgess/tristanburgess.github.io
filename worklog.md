@@ -8,6 +8,21 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/15/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - General Positive Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGeneral%20Positive%20Exponents%7C54d05f7e-3b26-454a-aa98-43178080e333%2F%29&wdorigin=703)
+      - Finished this section today continued from last session.
+    - [Prealgebra - Order of Operations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FOrder%20of%20Operations%7C2e082eca-e2da-41ce-8b58-4f555ee466c8%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [1.2.5 - An Important Inequality](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F5.%20An%20Important%20Inequality%7Cb7273b5e-40be-4aff-b0a5-0c958a0b5ca6%2F%29&wdorigin=703)
+    - [1.2.6 - The Binomial Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20The%20Binomial%20Theorem%7C9d66c3f2-2874-44b9-9f00-bb091b04d1e6%2F%29&wdorigin=703)
+    - [1.2.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20Exercises%7Cb6f61350-82c2-4f70-9b07-35d2846e6f5a%2F%29&wdorigin=703)
+      - Haven't finished these yet, left off on finishing exercise 6. Some of the expressions were rough to simplify.
+    - [1.2.7 - Further Remarks on Mathematical Induction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F7.%20Further%20Remarks%20on%20Mathematical%20Induction%7Cc2a95b49-577a-4195-b0dd-ace5978a66ed%2F%29&wdorigin=703)
+    - [1.2.7 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F7.%20Exercise%7Cf6e54531-eeb9-4bd9-ad19-6668476bf194%2F%29&wdorigin=703)
+      - A fun "figure out what's wrong with this proof" kind of thing.
+
 # 8/14/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Squares](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSquares%7C143a508c-1ba2-444c-97c4-24fd47905a31%2F%29&wdorigin=703)
