@@ -8,6 +8,19 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/16/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Negative and Zero Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FNegative%20and%20Zero%20Exponents%7Ced3dfc4c-8239-47fc-b61d-6836e8c25495%2F%29&wdorigin=703)
+    - [Prealgebra - Multiples](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMultiples%7C00b6afe1-ff73-4f37-a7fb-1a49c577fd13%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [1.2.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20Exercises%7Cb6f61350-82c2-4f70-9b07-35d2846e6f5a%2F%29&wdorigin=703)
+      - Did all except for problem 10 involving some more induction proofs. May leave it for another time.
+    - [S1 - The Theory of Numbers - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FIntroduction%7C8f98794d-28ef-43e3-aad2-e94f5f477d18%2F%29&wdorigin=703)
+    - [S1.1.1 - Fundamental Facts (of the prime numbers)](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Fundamental%20Facts%7C578cb48a-fbb3-4e07-b6df-0b8361e2d95b%2F%29&wdorigin=703)
+    - [S1.1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C3482577d-dcb3-4013-bd68-4b74f67647af%2F%29&wdorigin=703)
+      - Started, will continue next session.
+
 # 8/15/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - General Positive Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGeneral%20Positive%20Exponents%7C54d05f7e-3b26-454a-aa98-43178080e333%2F%29&wdorigin=703)
