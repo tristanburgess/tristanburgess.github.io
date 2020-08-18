@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/17/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Divisibility](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FDivisibility%7Ce897bcbd-bfe9-4c1d-8168-fe5ee1863546%2F%29&wdorigin=703)
+    - [Prealgebra - Primes and Composites Basics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FPrimes%20and%20Composites%20Basics%7C216fa714-edde-44bb-8acc-4239f12bdd4f%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S1.1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C3482577d-dcb3-4013-bd68-4b74f67647af%2F%29&wdorigin=703)
+      - Finished! Small two part proof by contradiction about properties about how to construct divisors out of the prime factors of a number.
+
 # 8/16/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Negative and Zero Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FNegative%20and%20Zero%20Exponents%7Ced3dfc4c-8239-47fc-b61d-6836e8c25495%2F%29&wdorigin=703)
