@@ -7,6 +7,7 @@ title: classlist
 
 ## [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 - [CMU 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
+- [Graphics Codex - Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [Hack The Kernel](https://github.com/ops-class)
 - [nand2tetris](https://www.nand2tetris.org/){: #nand2tetris}
 - [Princeton - COS 126 - CS Fundamentals](https://www.cs.princeton.edu/courses/archive/spring20/cos126/){: #Princeton-COS-126}
