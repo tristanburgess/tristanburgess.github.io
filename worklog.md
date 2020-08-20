@@ -10,6 +10,19 @@ title: tristan's worklog
 
 # 8/18/20
   - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Greatest Common Divisor](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGreatest%20Common%20Divisor%7Cc305851b-6222-4475-b4be-062010b323da%2F%29&wdorigin=703)
+    - [Prealgebra - Fraction Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Multiplication%7C58da1fd2-4d23-469c-aa5f-9f4b9c8adcdb%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
+      - Finished up notes on this section
+    - [S1.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercises%7C14b14ec0-ad7a-4bc2-9a92-7b03c3aee291%2F%29&wdorigin=703)
+      - Proof that there must be an infinite amount of prime numbers of the form (6n + 5)
+    - [S2.1 - Congruences - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
+      - Started notes on this section.
+
+# 8/18/20
+  - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Prime Factorization](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FPrime%20Factorization%7C9c37a716-5b07-47b4-b5f8-c53ab9ecea33%2F%29&wdorigin=703)
     - [Prealgebra - Least Common Multiple](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FLeast%20Common%20Multiple%7C35dfce2b-9b86-4378-9d2e-16ae90b9cd19%2F%29&wdorigin=703)
 
