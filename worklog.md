@@ -8,7 +8,17 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
-# 8/18/20
+# 8/20/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Fraction Division](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Division%7C43fb6447-73a9-40c3-8c85-5692f73c3c6c%2F%29&wdorigin=703)
+    - [Prealgebra - Fractions and Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFractions%20and%20Exponents%7C9fdf4c4e-2969-4e36-b2f2-89c1bc2678ec%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S2.1 - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
+    - [S2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C0f637ddf-78cc-4d53-ba85-1874d962f4ba%2F%29&wdorigin=703)
+      - Some exercises on properties of congruences/modular arithmetic.
+
+# 8/19/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Greatest Common Divisor](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGreatest%20Common%20Divisor%7Cc305851b-6222-4475-b4be-062010b323da%2F%29&wdorigin=703)
     - [Prealgebra - Fraction Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Multiplication%7C58da1fd2-4d23-469c-aa5f-9f4b9c8adcdb%2F%29&wdorigin=703)
