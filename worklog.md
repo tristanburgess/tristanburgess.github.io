@@ -8,6 +8,81 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/21/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Simplifying Fractions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSimplifying%20Fractions%7Cda76598f-e454-4335-8e8a-6b6c47662a3c%2F%29&wdorigin=703)
+    - [Prealgebra - Fraction Addition and Subtraction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Addition%20and%20Subtraction%7C788ca57c-9184-49bf-8805-ecc6c9d631b5%2F%29&wdorigin=703)
+    - [Prealgebra - Mixed Numbers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMixed%20Numbers%7Cc502bd36-c37d-4020-8901-c9bb87566c0f%2F%29&wdorigin=703)
+
+# 8/20/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Fraction Division](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Division%7C43fb6447-73a9-40c3-8c85-5692f73c3c6c%2F%29&wdorigin=703)
+    - [Prealgebra - Fractions and Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFractions%20and%20Exponents%7C9fdf4c4e-2969-4e36-b2f2-89c1bc2678ec%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S2.1 - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
+    - [S2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C0f637ddf-78cc-4d53-ba85-1874d962f4ba%2F%29&wdorigin=703)
+      - Some exercises on properties of congruences/modular arithmetic.
+
+# 8/19/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Greatest Common Divisor](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGreatest%20Common%20Divisor%7Cc305851b-6222-4475-b4be-062010b323da%2F%29&wdorigin=703)
+    - [Prealgebra - Fraction Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Multiplication%7C58da1fd2-4d23-469c-aa5f-9f4b9c8adcdb%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
+      - Finished up notes on this section
+    - [S1.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercises%7C14b14ec0-ad7a-4bc2-9a92-7b03c3aee291%2F%29&wdorigin=703)
+      - Proof that there must be an infinite amount of prime numbers of the form (6n + 5)
+    - [S2.1 - Congruences - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
+      - Started notes on this section.
+
+# 8/18/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Prime Factorization](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FPrime%20Factorization%7C9c37a716-5b07-47b4-b5f8-c53ab9ecea33%2F%29&wdorigin=703)
+    - [Prealgebra - Least Common Multiple](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FLeast%20Common%20Multiple%7C35dfce2b-9b86-4378-9d2e-16ae90b9cd19%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
+      - Started notes on this section.
+
+# 8/17/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Divisibility](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FDivisibility%7Ce897bcbd-bfe9-4c1d-8168-fe5ee1863546%2F%29&wdorigin=703)
+    - [Prealgebra - Primes and Composites Basics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FPrimes%20and%20Composites%20Basics%7C216fa714-edde-44bb-8acc-4239f12bdd4f%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S1.1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C3482577d-dcb3-4013-bd68-4b74f67647af%2F%29&wdorigin=703)
+      - Finished! Small two part proof by contradiction about properties about how to construct divisors out of the prime factors of a number.
+
+# 8/16/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Negative and Zero Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FNegative%20and%20Zero%20Exponents%7Ced3dfc4c-8239-47fc-b61d-6836e8c25495%2F%29&wdorigin=703)
+    - [Prealgebra - Multiples](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMultiples%7C00b6afe1-ff73-4f37-a7fb-1a49c577fd13%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [1.2.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20Exercises%7Cb6f61350-82c2-4f70-9b07-35d2846e6f5a%2F%29&wdorigin=703)
+      - Did all except for problem 10 involving some more induction proofs. May leave it for another time.
+    - [S1 - The Theory of Numbers - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FIntroduction%7C8f98794d-28ef-43e3-aad2-e94f5f477d18%2F%29&wdorigin=703)
+    - [S1.1.1 - Fundamental Facts (of the prime numbers)](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Fundamental%20Facts%7C578cb48a-fbb3-4e07-b6df-0b8361e2d95b%2F%29&wdorigin=703)
+    - [S1.1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C3482577d-dcb3-4013-bd68-4b74f67647af%2F%29&wdorigin=703)
+      - Started, will continue next session.
+
+# 8/15/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - General Positive Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGeneral%20Positive%20Exponents%7C54d05f7e-3b26-454a-aa98-43178080e333%2F%29&wdorigin=703)
+      - Finished this section today continued from last session.
+    - [Prealgebra - Order of Operations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FOrder%20of%20Operations%7C2e082eca-e2da-41ce-8b58-4f555ee466c8%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [1.2.5 - An Important Inequality](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F5.%20An%20Important%20Inequality%7Cb7273b5e-40be-4aff-b0a5-0c958a0b5ca6%2F%29&wdorigin=703)
+    - [1.2.6 - The Binomial Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20The%20Binomial%20Theorem%7C9d66c3f2-2874-44b9-9f00-bb091b04d1e6%2F%29&wdorigin=703)
+    - [1.2.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20Exercises%7Cb6f61350-82c2-4f70-9b07-35d2846e6f5a%2F%29&wdorigin=703)
+      - Haven't finished these yet, left off on finishing exercise 6. Some of the expressions were rough to simplify.
+    - [1.2.7 - Further Remarks on Mathematical Induction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F7.%20Further%20Remarks%20on%20Mathematical%20Induction%7Cc2a95b49-577a-4195-b0dd-ace5978a66ed%2F%29&wdorigin=703)
+    - [1.2.7 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F7.%20Exercise%7Cf6e54531-eeb9-4bd9-ad19-6668476bf194%2F%29&wdorigin=703)
+      - A fun "figure out what's wrong with this proof" kind of thing.
+
 # 8/14/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Squares](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSquares%7C143a508c-1ba2-444c-97c4-24fd47905a31%2F%29&wdorigin=703)
