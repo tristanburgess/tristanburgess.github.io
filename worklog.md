@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/21/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Simplifying Fractions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSimplifying%20Fractions%7Cda76598f-e454-4335-8e8a-6b6c47662a3c%2F%29&wdorigin=703)
+    - [Prealgebra - Fraction Addition and Subtraction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Addition%20and%20Subtraction%7C788ca57c-9184-49bf-8805-ecc6c9d631b5%2F%29&wdorigin=703)
+    - [Prealgebra - Mixed Numbers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMixed%20Numbers%7Cc502bd36-c37d-4020-8901-c9bb87566c0f%2F%29&wdorigin=703)
+
 # 8/20/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Fraction Division](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Division%7C43fb6447-73a9-40c3-8c85-5692f73c3c6c%2F%29&wdorigin=703)
