@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/22/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Expressions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FExpressions%7C3a914893-6fd3-4911-916c-1d79327fae18%2F%29&wdorigin=703)
+    - [Prealgebra - Basic Linear Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FBasic%20Linear%20Equations%7C0fecda5e-3ee8-47e9-906b-affdcaabde01%2F%29&wdorigin=703)
+    - [Prealgebra - Advanced Linear Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FAdvanced%20Linear%20Equations%7C4f9c2eb2-4f13-4d27-98b4-f43bc69db564%2F%29&wdorigin=703)
+    - [Prealgebra - Word Problems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FWord%20Problems%7C67807bf8-38f3-4fc1-8203-6d1cb6ff37fb%2F%29&wdorigin=703)
+    - [Prealgebra - Inequalities](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FInequalities%7C0ad32e99-5415-4043-815d-bdd354c47047%2F%29&wdorigin=703)
+    - [Prealgebra - Decimal Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FDecimal%20Arithmetic%7Ca45d4233-70b3-456b-8ec9-3c593082bf2d%2F%29&wdorigin=703)
+
 # 8/21/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Simplifying Fractions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSimplifying%20Fractions%7Cda76598f-e454-4335-8e8a-6b6c47662a3c%2F%29&wdorigin=703)
