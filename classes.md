@@ -17,7 +17,8 @@ title: classlist
 - [UC Berkeley - CS 184 - Intro to Computer Graphics](https://cs184.eecs.berkeley.edu/sp20)
 - [UC Berkeley - CS 186 - Intro to Database Systems](https://cs186berkeley.net/)
 - [UC Berkeley - CS 188 - Intro to AI](http://ai.berkeley.edu/home.html)
-- [University of Washington - CSE P 501 - Compiler Construction](https://courses.cs.washington.edu/courses/csep501/18sp/)
+- [University of Washington - CSE 341 - Programming Languages](https://courses.cs.washington.edu/courses/cse341/20sp/)
+- [University of Washington - CSE 501 - Compiler Construction](https://courses.cs.washington.edu/courses/csep501/18sp/)
 
 ## [Math](https://en.wikipedia.org/wiki/Mathematics)
 - [AoPS - Alcumus](https://artofproblemsolving.com/alcumus){: #Alcumus}
