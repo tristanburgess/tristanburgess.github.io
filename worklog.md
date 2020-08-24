@@ -8,6 +8,17 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/23/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Rounding Decimals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRounding%20Decimals%7C7fd257f1-3255-4652-91ec-0a385cfd5626%2F%29&wdorigin=703)
+    - [Prealgebra - Decimals and Fractions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FDecimals%20and%20Fractions%7C1f68477c-671a-4624-8ad8-a44e0fecfb9a%2F%29&wdorigin=703)
+
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S2.2 - Fermat's Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Fermat%27s%20Theorem%7Cc0c35c56-ba96-4496-b851-3c7d39e6d8b6%2F%29&wdorigin=703)
+    - [S2.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercises%7C0241ccfe-7590-4053-a846-8f8fb5b8cb55%2F%29&wdorigin=703)
+    - [S2.3 - Quadratic Residues](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Quadratic%20Residues%7C72b62b50-8a8b-41ee-88c2-5b01356d06db%2F%29&wdorigin=703)
+    - [S2.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7C1c8b6215-f25d-4eac-ab59-d664fb551b6f%2F%29&wdorigin=703)
+
 # 8/22/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Expressions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FExpressions%7C3a914893-6fd3-4911-916c-1d79327fae18%2F%29&wdorigin=703)
