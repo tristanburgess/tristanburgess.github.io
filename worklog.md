@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/24/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Repeating Decimals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRepeating%20Decimals%7Cca01f60e-f052-4ca9-8175-06b5d7dd146e%2F%29&wdorigin=703)
+    - [Prealgebra - Ratio Basics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRatio%20Basics%7Cabd2fef3-e725-4bfa-b32a-f2b49fe4a6e0%2F%29&wdorigin=703)
+
 # 8/23/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Rounding Decimals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRounding%20Decimals%7C7fd257f1-3255-4652-91ec-0a385cfd5626%2F%29&wdorigin=703)
