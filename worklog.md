@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/25/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Proprotions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FProportions%7C209e9d7b-5d21-4176-814e-2e2f0007db99%2F%29&wdorigin=703)
+    - [Prealgebra - Unit Conversions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FUnit%20Conversions%7C61e16698-eeda-470a-abc9-ee5952363f2e%2F%29&wdorigin=703)
+    - [Prealgebra - Speed and Other Rates](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSpeed%20and%20Other%20Rates%7Cad1d3ccb-bd95-4d5b-94a7-ec8ad341c4c7%2F%29&wdorigin=703)
+
 # 8/24/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Repeating Decimals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRepeating%20Decimals%7Cca01f60e-f052-4ca9-8175-06b5d7dd146e%2F%29&wdorigin=703)
