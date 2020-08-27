@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/26/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Simple Percents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSimple%20Percents%7C476f1e09-91a5-4e80-ab4e-9ccff82f7467%2F%29&wdorigin=703)
+    - [Prealgebra - Combining Percents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FCombining%20Percents%7C8e509c14-d72d-4078-ace0-caf14c10e3f3%2F%29&wdorigin=703)
+
 # 8/25/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Proprotions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FProportions%7C209e9d7b-5d21-4176-814e-2e2f0007db99%2F%29&wdorigin=703)
