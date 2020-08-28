@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/27/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Integer Square Roots](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FInteger%20Square%20Roots%7Cd2d6cacf-aac6-46cc-9800-3cb88cf91378%2F%29&wdorigin=703)
+    - [Prealgebra - Non-integer Square Roots](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FNon-integer%20Square%20Roots%7C0d024ae3-daff-409f-8da2-e5597aae709e%2F%29&wdorigin=703)
+
 # 8/26/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Simple Percents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSimple%20Percents%7C476f1e09-91a5-4e80-ab4e-9ccff82f7467%2F%29&wdorigin=703)
