@@ -8,6 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/28/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Angle Basics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FAngle%20Basics%7Ccfd788e4-d0e6-4089-a3ca-df7fdcc60da7%2F%29&wdorigin=703)
+    - [Prealgebra - Parralel Lines and Triangles](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FParallel%20Lines%20and%20Triangles%7C515fb7f6-f93b-4751-ae47-42888730638c%2F%29&wdorigin=703)
+  
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S3 - Pythagorean Numbers and Fermat's Last Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Pythagorean%20Numbers%20and%20Fermat%27s%20Last%20Theorem%7C5c11bcc4-a38a-46bb-83ca-e3c09767d41c%2F%29&wdorigin=703)
+    - [S3 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercise%7C18c67034-dac0-4398-8e9d-bcf8ad0672bb%2F%29&wdorigin=703)
+      - Proving some properties of primitive Pythagorean triples.
+
 # 8/27/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Integer Square Roots](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FInteger%20Square%20Roots%7Cd2d6cacf-aac6-46cc-9800-3cb88cf91378%2F%29&wdorigin=703)
