@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/30/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Circles](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FCircles%7Ce15118b2-7c88-4000-a6e3-e8ce2daacdc9%2F%29&wdorigin=703)
+    - [Prealgebra - The Pythagorean Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FThe%20Pythagorean%20Theorem%7Cafd75eec-27bb-44bd-ace9-d683622d93cf%2F%29&wdorigin=703)
+
 # 8/29/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Angles in a Polygon](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FAngles%20in%20a%20Polygon%7C3a8b54d9-6902-4ca2-9b71-7cc0447a377d%2F%29&wdorigin=703)
