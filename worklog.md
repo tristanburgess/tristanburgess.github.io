@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 8/31/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - The Pythagorean Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FThe%20Pythagorean%20Theorem%7Cafd75eec-27bb-44bd-ace9-d683622d93cf%2F%29&wdorigin=703)
+    - [Prealgebra - Special Right Triangles](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSpecial%20Right%20Triangles%7Cff02951c-f3e2-4011-bc36-bc3e37c098ce%2F%29&wdorigin=703)
+    - [Prealgebra - Quadrilaterals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FQuadrilaterals%7Cdc679840-6c46-441d-b6b9-ddadf77b8c4c%2F%29&wdorigin=703)
+    - [Prealgebra - Basic Statistics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FBasic%20Statistics%7C42397887-a26f-48c2-8ebc-139d4c5a7556%2F%29&wdorigin=703)
+    - [Prealgebra - Statistics - Reading Tables and Charts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FStatistics%20-%20Reading%20Table%20or%20Charts%7C70fae049-5834-443c-803a-b4ab5ca8a20c%2F%29&wdorigin=703)
+    - [Prealgebra - Counting Lists](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FCounting%20Lists%7C33424b69-ae8a-4a77-9d83-6523ef02d6cf%2F%29&wdorigin=703)
+
 # 8/30/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Circles](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FCircles%7Ce15118b2-7c88-4000-a6e3-e8ce2daacdc9%2F%29&wdorigin=703)
