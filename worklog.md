@@ -8,6 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
 
+# 9/1/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Prealgebra - Venn Diagrams](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FVenn%20Diagrams%7Ca5ebda6c-1f9f-463a-a8ca-376a8a71d70e%2F%29&wdorigin=703)
+    - [Prealgebra - The Multiplication Principle in Counting](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FThe%20Multiplication%20Principle%20in%20Counting%7C32e06051-f03e-4b2f-a93c-00bef30c0e2d%2F%29&wdorigin=703)
+    - [Prealgebra - Permutations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FPermutations%7C4a4a50c5-036b-44f8-bfe5-bb165bb37f93%2F%29&wdorigin=703)
+    - [Prealgebra - Casework Counting](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FCasework%20Counting%7Ce8385f53-8f05-48f5-a313-699532ab6337%2F%29&wdorigin=703)
+    - [Prealgebra - Counting Pairs](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FCounting%20Pairs%7Cf75a6969-9061-4db6-8478-58a7e6467838%2F%29&wdorigin=703)
+    - [Prealgebra - Basic Probability](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FBasic%20Probability%7Ccbd0c8ee-18e4-4fd0-a746-1ff6085a3e38%2F%29&wdorigin=703)
+      - That's it! I have now passed all the prealgebra sections on AoPS Alcumus. While not the most amazing achievement, it was a good and fun test of recollection and in some cases rudimentary derivation of some very basic facts among algebra, number theory, geometry, and counting + probability. I think this strategy I have of working up and down difficulty levels in mathematical texts to rebuild skill is coming along very nicely, and should have me both broad and sharp to tackle more advanced treatments in [Apostol's Calculus](/books#Calculus-Vol-I) and [Riley's Mathematical Methods for Physics](/books#RHB-Math-Methods-4-Physics).
+
 # 8/31/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - The Pythagorean Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FThe%20Pythagorean%20Theorem%7Cafd75eec-27bb-44bd-ace9-d683622d93cf%2F%29&wdorigin=703)
