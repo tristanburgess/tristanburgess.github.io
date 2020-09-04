@@ -6,7 +6,17 @@ title: tristan's worklog
 # Worklog
 
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
-### For code-specific work, see my repos and commit history at https://github.com/tristanburgess
+### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
+
+# 9/3/20
+  - Took yesterday off for my birthday :), easing back into business today.
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S4.1 The Euclidean Algorithm - General Theory](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Theory%7Cdae9c068-f73b-414a-9dca-8f0042cf209f%2F%29&wdorigin=703)
+    - [S4.1 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercise%7Cd54c708c-2cae-4d7f-90be-40bafa08fc42%2F%29&wdorigin=703)
+      - Drilling some examples of the Euclidean algorithm for finding GCDs.
+    - [S4.2 - Application to the Fundamental Theorem of Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Application%20to%20the%20Fundamental%20Theorem%20of%20Arithmetic%7Ce7c7905b-b055-4bdc-8923-0ad3cc764fbf%2F%29&wdorigin=703)
+    - [S4.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercise%7C351272bd-ab39-4bab-950b-605a229765b0%2F%29&wdorigin=703)
+      - Small induction proof on a lemma of the fundamental theorem of arithmetic, that if p | ab then p | a or p | b or both, to an infinite number of product factors.
 
 # 9/1/20
   - [AoPS Alcumus](/classes#Alcumus)
