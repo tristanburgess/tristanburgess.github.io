@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/4/20
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S4.3 - Euler's φ Function. Fermat's Theorem Again](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Euler%27s%20%CF%86%20Function.%20Fermat%27%7C20996ca4-270d-4669-bd56-397d935d64b0%2F%29&wdorigin=703)
+    - [S4.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7C3fbdbb13-fe8c-4731-bb42-a8e3b7ec145b%2F%29&wdorigin=703)
+      - Generalizing Fermat's little theorem into Euler's theorem involving Euler's totient function.
+
 # 9/3/20
   - Took yesterday off for my birthday :), easing back into business today.
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
