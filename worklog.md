@@ -8,26 +8,35 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/6/20
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [S1.4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Exercises%7C5ec7e6e8-5e08-47fd-9c9c-4affdf183d85%2F%29&wdorigin=703)
+      - Got my proof about the generalized roots to the equation ax + by = 0 to a satisfactory state.
+    - [Chapter 2 - The Number System of Mathematics - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FIntroduction%7C43e3e462-4b1e-4c64-816c-5c221f1d6553%2F%29&wdorigin=703)
+    - [2.1.1 - Rational Numbers as a Device for Measuring](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Rational%20Numbers%20as%20a%20Device%20for%20Measuring%7C06530654-4bb7-433b-bf6d-a0550e791b43%2F%29&wdorigin=703)
+    - [2.1.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C218d7f60-a8cc-4a57-a30f-0ce78529d4d8%2F%29&wdorigin=703)
+    - [2.1.2 - Intrinsic Need for the Rational Numbers. Principle of Generalization](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Intrinsic%20Need%20for%20the%20Rational%20Numbers.%20Principle%20%7Ccf0832fb-2ae4-4a3d-a37f-867151f47057%2F%29&wdorigin=703)
+
 # 9/5/20
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S4.4 - Continued Fractions. Diophantine Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Continued%20Fractions.%20Diophantine%20Equations%7C5472bdec-eb97-4684-b5bb-07fbe30abd46%2F%29&wdorigin=703)
-    - [S4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Exercises%7C5ec7e6e8-5e08-47fd-9c9c-4affdf183d85%2F%29&wdorigin=703)
+    - [S1.4.4 - Continued Fractions. Diophantine Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Continued%20Fractions.%20Diophantine%20Equations%7C5472bdec-eb97-4684-b5bb-07fbe30abd46%2F%29&wdorigin=703)
+    - [S1.4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Exercises%7C5ec7e6e8-5e08-47fd-9c9c-4affdf183d85%2F%29&wdorigin=703)
       - Some drilling on calculating continued fractions and solutions to Diophantine equations. Finished with a proof about the generalized roots to the equation ax + by = 0, which I don't feel like I've yet gotten just right. Going to play with it more tomorrow.
 
 # 9/4/20
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S4.3 - Euler's φ Function. Fermat's Theorem Again](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Euler%27s%20%CF%86%20Function.%20Fermat%27%7C20996ca4-270d-4669-bd56-397d935d64b0%2F%29&wdorigin=703)
-    - [S4.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7C3fbdbb13-fe8c-4731-bb42-a8e3b7ec145b%2F%29&wdorigin=703)
+    - [S1.4.3 - Euler's φ Function. Fermat's Theorem Again](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Euler%27s%20%CF%86%20Function.%20Fermat%27%7C20996ca4-270d-4669-bd56-397d935d64b0%2F%29&wdorigin=703)
+    - [S1.4.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7C3fbdbb13-fe8c-4731-bb42-a8e3b7ec145b%2F%29&wdorigin=703)
       - Generalizing Fermat's little theorem into Euler's theorem involving Euler's totient function.
 
 # 9/3/20
   - Took yesterday off for my birthday :), easing back into business today.
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S4.1 The Euclidean Algorithm - General Theory](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Theory%7Cdae9c068-f73b-414a-9dca-8f0042cf209f%2F%29&wdorigin=703)
-    - [S4.1 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercise%7Cd54c708c-2cae-4d7f-90be-40bafa08fc42%2F%29&wdorigin=703)
+    - [S1.4.1 The Euclidean Algorithm - General Theory](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Theory%7Cdae9c068-f73b-414a-9dca-8f0042cf209f%2F%29&wdorigin=703)
+    - [S1.4.1 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercise%7Cd54c708c-2cae-4d7f-90be-40bafa08fc42%2F%29&wdorigin=703)
       - Drilling some examples of the Euclidean algorithm for finding GCDs.
-    - [S4.2 - Application to the Fundamental Theorem of Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Application%20to%20the%20Fundamental%20Theorem%20of%20Arithmetic%7Ce7c7905b-b055-4bdc-8923-0ad3cc764fbf%2F%29&wdorigin=703)
-    - [S4.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercise%7C351272bd-ab39-4bab-950b-605a229765b0%2F%29&wdorigin=703)
+    - [S1.4.2 - Application to the Fundamental Theorem of Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Application%20to%20the%20Fundamental%20Theorem%20of%20Arithmetic%7Ce7c7905b-b055-4bdc-8923-0ad3cc764fbf%2F%29&wdorigin=703)
+    - [S1.4.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercise%7C351272bd-ab39-4bab-950b-605a229765b0%2F%29&wdorigin=703)
       - Small induction proof on a lemma of the fundamental theorem of arithmetic, that if p | ab then p | a or p | b or both, to an infinite number of product factors.
 
 # 9/1/20
@@ -66,8 +75,8 @@ title: tristan's worklog
     - [Prealgebra - Parralel Lines and Triangles](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FParallel%20Lines%20and%20Triangles%7C515fb7f6-f93b-4751-ae47-42888730638c%2F%29&wdorigin=703)
   
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S3 - Pythagorean Numbers and Fermat's Last Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Pythagorean%20Numbers%20and%20Fermat%27s%20Last%20Theorem%7C5c11bcc4-a38a-46bb-83ca-e3c09767d41c%2F%29&wdorigin=703)
-    - [S3 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercise%7C18c67034-dac0-4398-8e9d-bcf8ad0672bb%2F%29&wdorigin=703)
+    - [S1.3 - Pythagorean Numbers and Fermat's Last Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Pythagorean%20Numbers%20and%20Fermat%27s%20Last%20Theorem%7C5c11bcc4-a38a-46bb-83ca-e3c09767d41c%2F%29&wdorigin=703)
+    - [S1.3 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercise%7C18c67034-dac0-4398-8e9d-bcf8ad0672bb%2F%29&wdorigin=703)
       - Proving some properties of primitive Pythagorean triples.
 
 # 8/27/20
@@ -123,8 +132,8 @@ title: tristan's worklog
     - [Prealgebra - Fractions and Exponents](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFractions%20and%20Exponents%7C9fdf4c4e-2969-4e36-b2f2-89c1bc2678ec%2F%29&wdorigin=703)
 
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S2.1 - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
-    - [S2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C0f637ddf-78cc-4d53-ba85-1874d962f4ba%2F%29&wdorigin=703)
+    - [S1.2.1 - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
+    - [S1.2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7C0f637ddf-78cc-4d53-ba85-1874d962f4ba%2F%29&wdorigin=703)
       - Some exercises on properties of congruences/modular arithmetic.
 
 # 8/19/20
@@ -133,11 +142,11 @@ title: tristan's worklog
     - [Prealgebra - Fraction Multiplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFraction%20Multiplication%7C58da1fd2-4d23-469c-aa5f-9f4b9c8adcdb%2F%29&wdorigin=703)
 
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
+    - [S1.1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
       - Finished up notes on this section
-    - [S1.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercises%7C14b14ec0-ad7a-4bc2-9a92-7b03c3aee291%2F%29&wdorigin=703)
+    - [S1.1.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercises%7C14b14ec0-ad7a-4bc2-9a92-7b03c3aee291%2F%29&wdorigin=703)
       - Proof that there must be an infinite amount of prime numbers of the form (6n + 5)
-    - [S2.1 - Congruences - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
+    - [S1.2.1 - Congruences - General Concepts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20General%20Concepts%7Ca0e5746e-0815-4d0c-acf9-edc1a6f215af%2F%29&wdorigin=703)
       - Started notes on this section.
 
 # 8/18/20
@@ -146,7 +155,7 @@ title: tristan's worklog
     - [Prealgebra - Least Common Multiple](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FLeast%20Common%20Multiple%7C35dfce2b-9b86-4378-9d2e-16ae90b9cd19%2F%29&wdorigin=703)
 
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
-    - [S1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
+    - [S1.1.2 - The Distribution of the Primes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20The%20Distribution%20of%20the%20Primes%7C12cbcccb-f045-45f5-bfa0-9e1bc4ef3464%2F%29&wdorigin=703)
       - Started notes on this section.
 
 # 8/17/20
