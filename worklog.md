@@ -8,6 +8,14 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/7/20
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [2.1.3 - Limits. Infinite Geometrical Series](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=Edit&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Limits.%20Infinite%20Geometrical%20Series%7C5de00449-a290-4aa2-adbe-70d991019bf6%2F%29&wdorigin=703)
+    - [2.1.4 - Rational Numbers and Periodic Decimals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=Edit&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Rational%20Numbers%20and%20Periodic%20Decimals%7C7df768c1-7bab-48d9-bb5d-9ee9581df5b7%2F%29&wdorigin=703)
+    - [2.1.5 - General Definition of Irrational Numbers by Nested Intervals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=Edit&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F5.%20General%20Definition%20of%20Irrational%20Numbers%20by%20Nested%20Intervals%7Cc75ad498-61e4-4fb1-8bbe-f75fd35d0ff9%2F%29&wdorigin=703)
+    - [2.1.6 - Alternative Methods of Defining Irrational Numbers. Dedekind Cuts](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=Edit&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F6.%20Alternative%20Methods%20of%20Defining%20Irrational%20Numbers.%20Dedekind%20%7C3cc14896-a3e8-4a42-8a03-708b3f2b75b3%2F%29&wdorigin=703)
+      - All notes today :) exercises to come next.
+
 # 9/6/20
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [S1.4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F4.%20Exercises%7C5ec7e6e8-5e08-47fd-9c9c-4affdf183d85%2F%29&wdorigin=703)
