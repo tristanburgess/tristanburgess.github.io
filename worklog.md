@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/9/20
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [2.2.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7C406fa1e1-616e-4aff-82e5-7eae92fed53d%2F%29&wdorigin=703)
+      - Some exercises on evaluating and/or proving limits of different forms of infinite geometrical series.
+
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Simplifying One-Variable Expressions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSimplifying%20One-Variable%20Expressions%7C8b45862a-4975-4982-936b-ef88c403358f%2F%29&wdorigin=703)
+    - [Algebra - One-Variable Distribution](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FOne-Variable%20Distribution%7Cad15b1a1-3846-4cab-9868-0ef2f97d1919%2F%29&wdorigin=703)
+
 # 9/8/20
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [2.2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20Exercises%7Cbbdb9c53-87e9-4f1b-9f6c-a2925f38de2f%2F%29&wdorigin=703)
