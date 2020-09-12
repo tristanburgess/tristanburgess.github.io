@@ -8,6 +8,13 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/11/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Linear Equations in Disguise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FLinear%20Equations%20in%20Disguise%7C551b900d-2320-46cf-b710-c1b015c8ea58%2F%29&wdorigin=703)
+    - [Algebra - Solving Two-Variable Systems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSolving%20Two-Variable%20Systems%7C2062463c-a9f1-451d-b2c3-3aed7802f998%2F%29&wdorigin=703)
+    - [Algebra - Two-Variable Word Problems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FTwo-Variable%20Word%20Problems%7C7a7b31c9-a2e8-427d-b490-e0215ec6f447%2F%29&wdorigin=703)
+    - [Algebra - Advanced Systems of Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FAdvanced%20Systems%20of%20Equations%7C43c8c7e6-0549-4dc8-831e-78fb346084fe%2F%29&wdorigin=703)
+
 # 9/9/20
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [2.2.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F3.%20Exercises%7C406fa1e1-616e-4aff-82e5-7eae92fed53d%2F%29&wdorigin=703)
