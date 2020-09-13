@@ -8,6 +8,20 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/13/20
+  - [Designing Data-Intensive Applications](/books#Designing-Data-Intensive-Applications)
+    - [Chapter 1 - Reliable, Scalable, and Maintainable Applications](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Designing%20Data-Intensive%20Applications.one%7Cd2a4fc41-95c8-4147-a491-9156b23a3b69%2FChapter%201%20-%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Applications%7C335fe482-8baa-43ea-b548-c2ecc409fa6b%2F%29&wdorigin=703)
+
+  - [Cracking the Coding Interview](/books#Cracking-The-Coding-Interview)
+    - [Chapter 1 - The Interview Process](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Cracking%20the%20Coding%20Interview.one%7C2a8643bf-ea3c-48a0-84fc-9d633dffea84%2FChapter%201%20-%20The%20Interview%20Process%7C1472c978-2aed-47ae-a7b2-ab87e48b895d%2F%29&wdorigin=703)
+    - [Chapter 2 - Behind the Scenes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Cracking%20the%20Coding%20Interview.one%7C2a8643bf-ea3c-48a0-84fc-9d633dffea84%2FChapter%202%20-%20Behind%20the%20Scenes%7C80cace0d-de9f-4758-85cb-487367d3a8a9%2F%29&wdorigin=703)
+
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Rate Problems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRate%20Problems%7C93c1a503-44ec-4a7e-81a1-246e7dfd3544%2F%29&wdorigin=703)
+    - [Algebra - Distance in the Plane](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FDistance%20in%20the%20Plane%7Cec2977e9-2ef4-487a-94b7-53685f45cfb9%2F%29&wdorigin=703)
+    - [Algebra - Midpoint of a Segment](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMidpoint%20of%20a%20Segment%7C383b3d7b-644a-443a-bc6b-4a31bf56600a%2F%29&wdorigin=703)
+
+
 # 9/12/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Algebra - Ratios](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FRatios%7Ce6e51c10-7395-4459-a1ab-e76a13a3ef98%2F%29&wdorigin=703)
@@ -449,11 +463,11 @@ title: tristan's worklog
       - Some exercises on working with arithmetic in different number bases. Got through exercises 1-3 and started on 4. Will finish next session.
 
 # 7/6/2020
-  - [Feynman Physics Vol I](/books#Feynman-Physics-Vol-I)
-    - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-1%20Introduction%7Cd0229c30-f65f-4a0b-bf65-609cceac0a2c%2F%29&wdorigin=703)
-    - [Ch 1.2 - Matter is made of atoms](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-2%20Matter%20is%20made%20of%20atoms%7C15d51fbe-a54e-4ff8-94f4-fca88536c002%2F%29&wdorigin=703)
-    - [Ch 1.3 - Atomic processes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-3%20Atomic%20processes%7C79506f8a-5e5d-4df3-ba5d-ecd7729c4e54%2F%29&wdorigin=703)
-    - [Ch 1.4 - Chemical reactions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20Vol%20I.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-4%20Chemical%20reactions%7C5c9bf056-cc88-4a7b-8971-15fc9838462f%2F%29&wdorigin=703)
+  - [Feynman Physics Vol I](/books#Feynman-Physics)
+    - [Ch 1.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20on%20Physics.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-1%20Introduction%7Cd0229c30-f65f-4a0b-bf65-609cceac0a2c%2F%29&wdorigin=703)
+    - [Ch 1.2 - Matter is made of atoms](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20on%20Physics.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-2%20Matter%20is%20made%20of%20atoms%7C15d51fbe-a54e-4ff8-94f4-fca88536c002%2F%29&wdorigin=703)
+    - [Ch 1.3 - Atomic processes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20on%20Physics.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-3%20Atomic%20processes%7C79506f8a-5e5d-4df3-ba5d-ecd7729c4e54%2F%29&wdorigin=703)
+    - [Ch 1.4 - Chemical reactions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Feynman%20Lectures%20on%20Physics.one%7C2e4cc3a0-fe82-4863-bdd3-ece57ed1f676%2F1-4%20Chemical%20reactions%7C5c9bf056-cc88-4a7b-8971-15fc9838462f%2F%29&wdorigin=703)
   
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 1.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F1.2%20-%20Exercises%7C628caa2d-834c-4461-aea4-14cdfa1d0cd8%2F%29&wdorigin=703)

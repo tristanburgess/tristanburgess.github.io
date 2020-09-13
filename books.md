@@ -12,10 +12,10 @@ title: booklist
 - [Bryant, O'Hallaron - Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/25403633-computer-systems)
 - [Cooper, Torczon - Engineering a Compiler](https://www.goodreads.com/book/show/3408316-engineering-a-compiler-second-edition)
 - [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){: #Pragmatic-Programmer}
-- [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+- [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications){: #Designing-Data-Intensive-Applications}
 - [Kurose, Ross - Computer Networking: A Top-Down Approach](https://www.goodreads.com/book/show/83847.Computer_Networking)
 - [Marschner, Shirley - Fundamentals of Computer Graphics](https://www.goodreads.com/book/show/1933732.Fundamentals_of_Computer_Graphics)
-- [McDowell - Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
+- [McDowell - Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview){: #Cracking-The-Coding-Interview}
 - [McGuire - The Graphics Codex](http://graphicscodex.com/index.php)
 - [Nisan - Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.goodreads.com/book/show/910789.The_Elements_of_Computing_Systems){: #Nisan-Elements-Of-Computing-Systems}
 - [Patterson, Hennessy - Computer Organization and Design: The Hardware/Software Interface RISC-V Edition](https://www.goodreads.com/book/show/35270665-computer-organization-and-design-risc-v-edition){: #Computer-Organization-And-Design}
@@ -43,7 +43,7 @@ title: booklist
 ## [Physics](https://en.wikipedia.org/wiki/Physics)
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
-- [Feynman, Leighton, Sands - The Feynamn Lecture on Physics, Volume I: Mainly Mechanics, Radiation, and Heat](https://www.goodreads.com/book/show/17278.The_Feynman_Lectures_on_Physics_Vol_1){: #Feynman-Physics-Vol-I}
+- [Feynman, Leighton, Sands - The Feynamn Lecture on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics){: #Feynman-Physics}
 - [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics)
 - [Morin - Special Relativity: For the Enthusiastic Beginner](https://www.goodreads.com/book/show/34025346-special-relativity)
 - [Young, Freedman - University Physics with Modern Physics](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics){: #FY-University-Physics}
