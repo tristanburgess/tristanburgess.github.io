@@ -10,6 +10,8 @@ title: classlist
 - [Graphics Codex - Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [Hack The Kernel](https://github.com/ops-class)
 - [nand2tetris](https://www.nand2tetris.org/){: #nand2tetris}
+- [MIT - 6.824 - Distributed Systems](https://pdos.csail.mit.edu/6.824/)
+- [pingcap - Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/blob/master/courses/rust/README.md)
 - [Princeton - COS 126 - CS Fundamentals](https://www.cs.princeton.edu/courses/archive/spring20/cos126/){: #Princeton-COS-126}
 - [Princeton - COS 226 - CS Alg & DS](https://www.cs.princeton.edu/courses/archive/spring20/cos226/)
 - [UC Berkeley - CS 61C - Great Ideas in Computer Architecture](https://cs61c.org/su20/){: #UCB-CS61C}
