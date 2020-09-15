@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/14/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Graphing Lines](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGraphing%20Lines%7Cf6012018-043f-400a-af08-5aa5dae27fe1%2F%29&wdorigin=703)
+    - [Algebra - Graphing Multiple Lines](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGraphing%20Multiple%20Lines%7C20e3bd47-2ccc-4dd1-a03c-bdcfe779d7a3%2F%29&wdorigin=703)
 # 9/13/20
   - [Designing Data-Intensive Applications](/books#Designing-Data-Intensive-Applications)
     - [Chapter 1 - Reliable, Scalable, and Maintainable Applications](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Designing%20Data-Intensive%20Applications.one%7Cd2a4fc41-95c8-4147-a491-9156b23a3b69%2FChapter%201%20-%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Applications%7C335fe482-8baa-43ea-b548-c2ecc409fa6b%2F%29&wdorigin=703)
