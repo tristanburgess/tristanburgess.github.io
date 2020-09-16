@@ -8,10 +8,22 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/15/20
+  - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
+    - [2.3.1 - Remarks on Analytic Geometry - The Basic Principle](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20The%20Basic%20Principle%7Cee119da0-b7d2-4bf0-b13f-2aad1c56269e%2F%29&wdorigin=703)
+    - [2.3.2 - Equations of Lines and Curves](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Equations%20of%20Lines%20and%20Curves%7Cb48f6d5a-e885-46e6-b44f-7d4b43646b35%2F%29&wdorigin=703)
+    - [2.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2FExercises%7C3e30f5c8-6a9b-4bfb-bcb3-fadcffe6bd3b%2F%29&wdorigin=703)
+      - Started off only with a geometric argument about the coordinates of a point which lies proportionally between two endpoints (for example, the midpoint of a line segment, but includes a generalization by a proportional factor).
+
+  - [Calculus Vol I](/books#Calculus-Vol-I)
+    - [I2.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F2.5%20-%20Exercises%7C40551a0e-ba58-4bc3-848e-e14e9bcea424%2F%29&wdorigin=703)
+      - Completed exercises 1 and 2.
+
 # 9/14/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Algebra - Graphing Lines](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGraphing%20Lines%7Cf6012018-043f-400a-af08-5aa5dae27fe1%2F%29&wdorigin=703)
     - [Algebra - Graphing Multiple Lines](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FGraphing%20Multiple%20Lines%7C20e3bd47-2ccc-4dd1-a03c-bdcfe779d7a3%2F%29&wdorigin=703)
+
 # 9/13/20
   - [Designing Data-Intensive Applications](/books#Designing-Data-Intensive-Applications)
     - [Chapter 1 - Reliable, Scalable, and Maintainable Applications](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Designing%20Data-Intensive%20Applications.one%7Cd2a4fc41-95c8-4147-a491-9156b23a3b69%2FChapter%201%20-%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Applications%7C335fe482-8baa-43ea-b548-c2ecc409fa6b%2F%29&wdorigin=703)
@@ -346,7 +358,10 @@ title: tristan's worklog
     - [1.7 - Vectors and Vector Addition](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28University%20Physics.one%7C47fc5352-068b-4c2d-9ccd-2b6ec566dadb%2F1.7%20-%20Vectors%20and%20Vector%20Addition%7C7f7c246b-a346-45f1-b32f-25f0907cd6dc%2F%29&wdorigin=703)
 
   - [Calculus Vol I](/books#Calculus-Vol-I)
-    - [Part 2 - Some Basic Concepts of the Theory of Sets](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%202%20-%20Some%20Basic%20Concepts%20of%20the%20Theory%20of%20%7C8b57ecad-fcf8-44d9-a15d-a69843cf2ae0%2F%29&wdorigin=703)
+    - [I2.1 - Some Basic Concepts of the Theory of Sets - Intro To Set Theory](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F2.1%20-%20Intro%20to%20Set%20Theory%7Cbe71cef8-f9bb-49bc-8ddd-035518fe6a26%2F%29&wdorigin=703)
+    - [I2.2 - Set Notation](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F2.2%20-%20Set%20Notation%7Cf923bea9-f3c0-4b3a-86da-91c1f752843c%2F%29&wdorigin=703)
+    - [I2.3 - Subsets](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F2.3%20-%20Subsets%7Cc769260c-1b07-43a4-966b-200b56ecdb0a%2F%29&wdorigin=703)
+    - [I2.4 - Unions, Intersections, Complements](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F2.4%20-%20Unions%2C%20Intersections%2C%20Complements%7Cc643fb33-57d6-4668-a95b-b3835417ba40%2F%29&wdorigin=703)
 
 # 7/28/20
   - [University Physics](/books#FY-University-Physics)
@@ -482,17 +497,20 @@ title: tristan's worklog
 
 # 7/5/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
-    - [Ch 1 Part 1 - I 1.4 Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%201%20-%20I%201.4%20Exercises%7C14027fce-a6fb-48b1-a60a-776dfa1c5ee8%2F%29&wdorigin=703)
+    - [I1.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.4%20-%20Exercises%7C14027fce-a6fb-48b1-a60a-776dfa1c5ee8%2F%29&wdorigin=703)
       - Exercises concerning Archimedes' method and generalizing to find exact area formulas for simple polynomial curves.
 
 # 7/4/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
-    - [Ch 1 Part 1 - Historical Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%201%20-%20Historical%20Introduction%7Cdc289a0e-8cb7-48ba-abae-aebefb498ee3%2F%29&wdorigin=703)
+    - [I1.2 - Historical Background](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.2%20-%20Historical%20Background%7C6e34badc-ae33-4a12-ae84-1cd4921646c0%2F%29&wdorigin=703)
+    - [I1.3 - Method of Exhaustion for Area of Parabolic Segment](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.3%20-%20Method%20of%20Exhaustion%20for%20Area%20of%20%7C5a6f67ba-d082-4f3f-aba7-dde9e729c5cc%2F%29&wdorigin=703)
+    - [I1.5 - A Critical Analysis of Archimedes Method](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.5%20-%20A%20Critical%20Analysis%20of%20Archimedes%20Method%7C3c69fb8b-a2c5-4fcd-8aea-811ff72f1d7f%2F%29&wdorigin=703)
+    - [I1.6 - Approach to Calculus Used in this Book](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.6%20-%20Approach%20to%20Calculus%20Used%20in%20this%20%7C86feae5d-85f3-43f5-b8d8-53aa86a0cb38%2F%29&wdorigin=703)
       - Finished notes on this section, exercises coming next!
 
 # 7/3/2020
   - [Calculus Vol I](/books#Calculus-Vol-I)
-    - [Ch 1 Part 1 - Historical Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2FPart%201%20-%20Historical%20Introduction%7Cdc289a0e-8cb7-48ba-abae-aebefb498ee3%2F%29&wdorigin=703)
+    - [I1.1 - Historical Introduction - The Two Basic Concepts of Calculus](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.1%20-%20The%20Two%20Basic%20Concepts%20of%20Calculus%7C78d7d019-b07f-4746-97a6-0e5b9d83bd25%2F%29&wdorigin=703)
       - Started notes on this section, lost most of today but wanted to get something small done. Aiming to finish section + exercises next.
 
 # 7/2/2020
