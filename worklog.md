@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/16/20
+  - [Calculus Vol I](/books#Calculus-Vol-I)
+    - [I2.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F2.5%20-%20Exercises%7C40551a0e-ba58-4bc3-848e-e14e9bcea424%2F%29&wdorigin=703)
+      - Continuing on, completed exercises 3-13, more small proofs about properties of sets.
+
 # 9/15/20
   - [What Is Mathematics?](/books#Courant-What-Is-Mathematics)
     - [2.3.1 - Remarks on Analytic Geometry - The Basic Principle](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F1.%20The%20Basic%20Principle%7Cee119da0-b7d2-4bf0-b13f-2aad1c56269e%2F%29&wdorigin=703)
@@ -113,7 +118,7 @@ title: tristan's worklog
       - Drilling some examples of the Euclidean algorithm for finding GCDs.
     - [S1.4.2 - Application to the Fundamental Theorem of Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Application%20to%20the%20Fundamental%20Theorem%20of%20Arithmetic%7Ce7c7905b-b055-4bdc-8923-0ad3cc764fbf%2F%29&wdorigin=703)
     - [S1.4.2 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Courant%20What%20Is%20Math.one%7Ce77ea9b2-3ef0-41a7-bdf0-f692804791f6%2F2.%20Exercise%7C351272bd-ab39-4bab-950b-605a229765b0%2F%29&wdorigin=703)
-      - Small induction proof on a lemma of the fundamental theorem of arithmetic, that if p | ab then p | a or p | b or both, to an infinite number of product factors.
+      - Small induction proof on a lemma of the fundamental theorem of arithmetic, that if p divides ab then p divides a or p divides b or both, to an infinite number of product factors.
 
 # 9/1/20
   - [AoPS Alcumus](/classes#Alcumus)
