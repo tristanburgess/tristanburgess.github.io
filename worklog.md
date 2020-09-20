@@ -8,6 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/19/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I3.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.3%20-%20Exercises%7C41cafbd3-d4a7-4e5f-92e3-57ab85899fa4%2F%29&wdorigin=703)
+      - Finished the rest of exercises 2 - 10.
+    - [I3.4 - The Order Axioms](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.4%20-%20The%20Order%20Axioms%7C0b917528-7b96-4772-92a5-f91e39a7b7a1%2F%29&wdorigin=703)
+    - [I3.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.5%20-%20Exercises%7C8cde4b74-de22-403e-b18d-08451d604e08%2F%29&wdorigin=703)
+      - Exercises on provide theorems and properties on the ordering of real numbers.
+    - [I3.6 - Integers and Rational Numbers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.6%20-%20Integers%20and%20Rational%20Numbers%7C79a8a0dc-9550-4c00-a36c-cd0a4c87d13d%2F%29&wdorigin=703)
+    - [I3.7 - Geometric Interpretation of Real Numbers as Points](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.7%20-%20Geometric%20Interpretation%20of%20Real%20Numbers%20as%20%7C25b230c1-40df-4146-99b5-cebb247c4b03%2F%29&wdorigin=703)
+
 # 9/18/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I3.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.3%20-%20Exercises%7C41cafbd3-d4a7-4e5f-92e3-57ab85899fa4%2F%29&wdorigin=703)
