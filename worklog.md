@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/20/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I3.8 - Upper Bound of a Set, Maximum Element, Least Upper Bound (Supremum)](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.8%20-%20Upper%20Bound%20of%20a%20Set%2C%7C60229533-eb6b-4235-a6e9-5473ed8846a1%2F%29&wdorigin=703)
+    - [I3.9 - The Least Upper Bound Axiom (Completeness Axiom)](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.9%20-%20The%20Least%20Upper%20Bound%20Axiom%20%28%7C3a66e08c-c031-4aa3-a6f9-53a4a6f1580e%2F%29&wdorigin=703)
+    - [I3.10 - The Archimedean Property of the Real Number System](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.10%20-%20The%20Archimedean%20Property%20of%20the%20Real%20%7Cab1071ef-19d9-4701-b676-b9bbfb0b4a77%2F%29&wdorigin=703)
+    - [I3.11 - Fundamental Properties of the Supremum and Infimum](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.11%20-%20Fundamental%20Properties%20of%20the%20Supremum%20and%20%7C7287d5de-5da5-4029-a063-5c1ce7bd78d7%2F%29&wdorigin=703)
+    - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
+      - Finished exercises 1-3, started 4.
+
 # 9/19/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I3.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.3%20-%20Exercises%7C41cafbd3-d4a7-4e5f-92e3-57ab85899fa4%2F%29&wdorigin=703)
