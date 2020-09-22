@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/21/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
+      - Finished exercises 4 and 5. Stuck on 6 but making some progress.
+
 # 9/20/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I3.8 - Upper Bound of a Set, Maximum Element, Least Upper Bound (Supremum)](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.8%20-%20Upper%20Bound%20of%20a%20Set%2C%7C60229533-eb6b-4235-a6e9-5473ed8846a1%2F%29&wdorigin=703)
