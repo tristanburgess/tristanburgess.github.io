@@ -11,6 +11,11 @@ title: tristan's worklog
 # 9/21/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
+      - Finished exercises 6-10. Just have 11 and 12 left to solve.
+
+# 9/21/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
       - Finished exercises 4 and 5. Stuck on 6 but making some progress.
 
 # 9/20/20
