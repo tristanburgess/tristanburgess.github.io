@@ -8,7 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
-# 9/21/20
+# 9/23/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
+      - Finished all the exercises! Wahoo!
+    - [I3.13 - Existence of Square Roots of Nonnegative Real Numbers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.13%20-%20Existence%20of%20Square%20Roots%20of%20Nonnegative%20%7Cab158511-3591-4ca7-9db4-41fb62c212b7%2F%29&wdorigin=703)
+    - [I3.14 - Roots of Higher Order. Rational Powers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.14%20-%20Roots%20of%20Higher%20Order.%20Rational%20%7C914507de-c753-49f1-8174-a59d086c18aa%2F%29&wdorigin=703)
+    - [I3.15 - Representation of Real Numbers by Decimals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.15%20-%20Representation%20of%20Real%20Numbers%20by%20Decimals%7C5166300b-0f39-4fcb-9761-a80f24e56b46%2F%29&wdorigin=703)
+      - Going to do a little review and note reading of this section and some related sections from [What Is Mathematics?](/books#Courant-What-Is-Mathematics) before continuing on to part 4 of the intro.
+
+# 9/22/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
       - Finished exercises 6-10. Just have 11 and 12 left to solve.
