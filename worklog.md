@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/24/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.1 - An Example of a Proof by Mathematical Induction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.1%20-%20An%20Example%20of%20a%20Proof%20by%20%7Cdb13c9b3-899d-4a1e-9963-5679058a9300%2F%29&wdorigin=703)
+    - [I4.2 - The Principle of Mathematical Induction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.2%20-%20The%20Principle%20of%20Mathematical%20Induction%7C91a1d39c-eb73-42e3-8f29-a937d970d24b%2F%29&wdorigin=703)
+    - [I4.3 - The Well-Ordering Principle](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.3%20-%20The%20Well-Ordering%20Principle%7Cedeef4f4-615a-4c06-acd9-7b1387ea13b9%2F%29&wdorigin=703)
+
 # 9/23/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I3.12 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F3.12%20-%20Exercises%7C7bada02f-a3e1-4464-b5ca-fef18c887c79%2F%29&wdorigin=703)
