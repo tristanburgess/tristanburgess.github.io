@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/25/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.4%20-%20Exercises%7C78e2a179-09a2-4424-af91-8543d5d174a0%2F%29&wdorigin=703)
+      - Did ex 1 and 2 involving some basic induction proofs.
+
 # 9/24/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.1 - An Example of a Proof by Mathematical Induction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.1%20-%20An%20Example%20of%20a%20Proof%20by%20%7Cdb13c9b3-899d-4a1e-9963-5679058a9300%2F%29&wdorigin=703)
