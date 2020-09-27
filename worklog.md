@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/26/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.4%20-%20Exercises%7C78e2a179-09a2-4424-af91-8543d5d174a0%2F%29&wdorigin=703)
+      - Finished the rest of the exercises, 3 through 12.
+    - [I4.5 - Proof of the Well-Ordering Principle](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.5%20-%20Proof%20of%20the%20Well-Ordering%20%7Ca698d7e3-4d26-4eeb-95f8-cd01df58cffb%2F%29)
+
 # 9/25/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.4%20-%20Exercises%7C78e2a179-09a2-4424-af91-8543d5d174a0%2F%29&wdorigin=703)
