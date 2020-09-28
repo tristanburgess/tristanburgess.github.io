@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/27/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.6 - The Summation Notation](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.6%20-%20The%20Summation%20Notation%7Cc1fd355c-6761-4242-8018-04feb50b1afc%2F%29&wdorigin=703)
+    - [I4.7 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.7%20-%20Exercises%7C37e01de3-70dd-4e77-91dd-2dc8b2ea09a7%2F%29&wdorigin=703)
+      - Finished exercises 1 through 10, and 12.
+
 # 9/26/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.4%20-%20Exercises%7C78e2a179-09a2-4424-af91-8543d5d174a0%2F%29&wdorigin=703)
