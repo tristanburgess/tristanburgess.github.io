@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 9/30/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.9%20-%20Exercises%7Cb0ee4348-f6fb-46c1-9ae9-970be5652e50%2F%29&wdorigin=703)
+      - Finished all 10 parts of exercise 1.
+
 # 9/29/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.8 - Absolute Values and the Triangle Inequality](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.8%20-%20Absolute%20Values%20and%20the%20Triangle%20Inequality%7C942dcef6-1c7c-4612-97ef-0bcba8d1bfa2%2F%29&wdorigin=703)
