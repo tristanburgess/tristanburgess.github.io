@@ -11,6 +11,11 @@ title: tristan's worklog
 # 9/30/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.9%20-%20Exercises%7Cb0ee4348-f6fb-46c1-9ae9-970be5652e50%2F%29&wdorigin=703)
+      - Finished the rest the exercises on properties of absolute value, including a proof of a property of the Cauchy-Schwarz inequality.
+
+# 9/30/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.9%20-%20Exercises%7Cb0ee4348-f6fb-46c1-9ae9-970be5652e50%2F%29&wdorigin=703)
       - Finished all 10 parts of exercise 1.
 
 # 9/29/20
