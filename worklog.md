@@ -8,7 +8,13 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
-# 9/30/20
+# 10/2/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [I4.10 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.10%20-%20Miscellaneous%20Exercises%20Involving%20Induction%7Cc2ddee9f-a642-42ad-b499-46d586329b04%2F%29&wdorigin=703)
+      - Completed exercises 1 and 2 on some properties of binomial coefficients.
+    - [1.1.1 - The Concepts of Integral Calculus - The Basic Ideas of Cartesian Geometry](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.1%20-%20The%20Basic%20Ideas%20of%20Cartesian%20Geometry%7Ccc452a15-42e0-49a7-9a94-0eb1ebaba31e%2F%29&wdorigin=703)
+
+# 10/1/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.9%20-%20Exercises%7Cb0ee4348-f6fb-46c1-9ae9-970be5652e50%2F%29&wdorigin=703)
       - Finished the rest the exercises on properties of absolute value, including a proof of a property of the Cauchy-Schwarz inequality.
