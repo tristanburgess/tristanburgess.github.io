@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/6/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [1.1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.5%20-%20Exercises%7C1843ba03-994f-4c8c-9208-9542f251f0c4%2F%29&wdorigin=703)
+      - Slogged through exercise 9, proved some fundamental properties of polynomials.
+
 # 10/4/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [I4.10 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F4.10%20-%20Miscellaneous%20Exercises%20Involving%20Induction%7Cc2ddee9f-a642-42ad-b499-46d586329b04%2F%29&wdorigin=703)
