@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/7/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [1.1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.5%20-%20Exercises%7C1843ba03-994f-4c8c-9208-9542f251f0c4%2F%29&wdorigin=703)
+      - Finished the rest of the exercises 10-12.
+    - [1.1.6 - The Concept of Area as a Set Function](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.6%20-%20The%20Concept%20of%20Area%20as%20a%20%7C93715a1f-ac94-4bfd-992b-b339cfa3953e%2F%29&wdorigin=703)
+
 # 10/6/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [1.1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.5%20-%20Exercises%7C1843ba03-994f-4c8c-9208-9542f251f0c4%2F%29&wdorigin=703)
