@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/8/20
+ - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [1.1.7 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.7%20-%20Exercises%7C0c356db7-a37d-4974-be71-3bc5307724a5%2F%29&wdorigin=703)
+      - Finished exercises 1-3 and started exercise 4 on relationships between lattice points and area.
+
 # 10/7/20
   - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [1.1.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.5%20-%20Exercises%7C1843ba03-994f-4c8c-9208-9542f251f0c4%2F%29&wdorigin=703)
