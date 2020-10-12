@@ -12,6 +12,9 @@ title: tristan's worklog
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
     - [1.1.7 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.7%20-%20Exercises%7C0c356db7-a37d-4974-be71-3bc5307724a5%2F%29&wdorigin=703)
       - Finished the rest of the exercises.
+    - [1.1.8 - Intervals and Ordinate Sets](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.8%20-%20Intervals%20and%20Ordinate%20Sets%7C50a7525d-7a6f-4cf8-94da-1bcb9277a2f0%2F%29&wdorigin=703)
+    - [1.1.9 - Partitions and Step Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.9%20-%20Partitions%20and%20Step%20Functions%7C34385c6d-c7e3-4af4-a1f0-c8d4729b89c6%2F%29&wdorigin=703)
+    - [1.1.10 - Sum and Product of Step Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.10%20-%20Sum%20and%20Product%20of%20Step%20Functions%7C8164fc3b-dbb5-438c-9fb1-bec243a9e825%2F%29&wdorigin=703)
 
 # 10/9/20
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
