@@ -39,7 +39,7 @@ title: booklist
 - [Morin - Probability: For the Enthusiastic Beginner](https://www.goodreads.com/en/book/show/29991429-probability)
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
-- [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I)
+- [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I){: #Ueno-Mathematical-Gift}
 
 ## [Physics](https://en.wikipedia.org/wiki/Physics)
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}

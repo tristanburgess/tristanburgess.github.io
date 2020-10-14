@@ -8,6 +8,14 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/13/20
+ - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+  - [1.1.11 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.11%20-%20Exercises%7C5a23178e-4fe2-4ed0-bd7d-5c102852c76c%2F%29&wdorigin=703)
+    - Finished exercises 2 and 3, started exercise 4.
+
+  - [Ueno - A Mathematical Gift, I](/books#Ueno-Mathematical-Gift)
+    - [1.1 - Invitation to Topology - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28A%20Mathematical%20Gift.one%7C69586cfa-03f3-4cf6-89cb-a955b117bbf6%2FIntroduction%7C04121fa7-b94f-4b41-af25-92b9273e2602%2F%29&wdorigin=703)
+
 # 10/12/20
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
   - [1.1.7 - Exercises Revised](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.7%20-%20Exercises%20Revised%7Ca3ff4e65-1f17-40ee-8bd7-85bf75fed7a7%2F%29&wdorigin=703)
