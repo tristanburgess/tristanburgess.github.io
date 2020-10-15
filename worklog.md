@@ -8,6 +8,17 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/14/20
+ - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+   - [1.1.11 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.11%20-%20Exercises%7C5a23178e-4fe2-4ed0-bd7d-5c102852c76c%2F%29&wdorigin=703)
+    - Finished exercise 4.
+
+  - [1.1.12 - The Definition of the Integral for Step Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.12%20-%20The%20Definition%20of%20the%20Integral%20for%20%7C86d8b78b-7014-40d5-b295-891de0189e12%2F%29&wdorigin=703)
+
+  - [1.1.13 - Properties of the Integral of a Step Function](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.13%20-%20Properties%20of%20the%20Integral%20of%20a%20%7C089d05be-825f-4ed8-9adf-a5fcb5e9df87%2F%29&wdorigin=703)
+
+  - [1.1.14 - Other Notations for Integrals](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.14%20-%20Other%20Notations%20for%20Integrals%7C3d740944-8a9f-4399-ae19-581c2119f6fc%2F%29&wdorigin=703)
+
 # 10/13/20
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
   - [1.1.11 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.11%20-%20Exercises%7C5a23178e-4fe2-4ed0-bd7d-5c102852c76c%2F%29&wdorigin=703)
