@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/16/20
+ - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+  - [1.1.15 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.15%20-%20Exercises%7C8950fa6d-004f-4759-8104-47ca1faf7195%2F%29&wdorigin=703)
+    - Finished exercise 3.
+
 # 10/15/20
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
   - [1.1.15 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.15%20-%20Exercises%7C8950fa6d-004f-4759-8104-47ca1faf7195%2F%29&wdorigin=703)
