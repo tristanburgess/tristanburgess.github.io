@@ -8,6 +8,13 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/17/20
+  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
+    - [1.1.15 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.15%20-%20Exercises%7C8950fa6d-004f-4759-8104-47ca1faf7195%2F%29&wdorigin=703)
+      - Worked through ex 4 and 5.
+
+  - I have recently joined a math and physics Discord community where I'm hoping to optimize my knowledge of such topics with the opportunity to work with others. In light of the need to work on texts the group are familiar with, I've reworked my booklist to remove several books including Apostol. This has been replaced with Serge Lang's 2 volume course on calculus, to be followed by an appropriate introductory course on physics as well as deeper forays into maths.
+
 # 10/16/20
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
   - [1.1.15 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.15%20-%20Exercises%7C8950fa6d-004f-4759-8104-47ca1faf7195%2F%29&wdorigin=703)

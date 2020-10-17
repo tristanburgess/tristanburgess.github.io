@@ -25,7 +25,7 @@ title: booklist
 - [Sedgewick, Wayne - Computer Science: An Interdisciplinary Approach](https://www.goodreads.com/book/show/26260896-computer-science){: #Computer-Science-AIA}
 
 ## [Math](https://en.wikipedia.org/wiki/Mathematics)
-- [Apostol - Calculus Vol I: One Variable Calculus With an Introduction to Linear Algebra](https://www.goodreads.com/book/show/282035.Calculus_Volume_1){: #Calculus-Vol-I}
+- [Bloch - The Real Numbers and Real Analysis](https://www.goodreads.com/book/show/13707101-the-real-numbers-and-real-analysis){: #Bloch-Real-Analysis}
 - [Courant, Robbins - What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/584620.What_Is_Mathematics_){: #Courant-What-Is-Mathematics}
 - [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](https://www.goodreads.com/book/show/10226560-3d-math-primer-for-graphics-and-game-development)
 - [Gelfand - Algebra](https://www.goodreads.com/book/show/2140100.Algebra)
@@ -33,10 +33,11 @@ title: booklist
 - [Gelfand - The Method of Coordinates](https://www.goodreads.com/book/show/946677.The_Method_of_Coordinates)
 - [Gelfand - Functions and Graphs](https://www.goodreads.com/book/show/8796338-functions-and-graphs){: #Gelfand-Functions-and-Graphs}
 - [Graham, Knuth, Pratashnik - Concrete Mathematics: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics)
+- [Lang - A First Course in Calculus](https://www.goodreads.com/book/show/860480.A_First_Course_in_Calculus){: #Lang-First-Calculus}
+- [Lang - Calculus of Several Variables](https://www.goodreads.com/book/show/681184.Calculus_of_Several_Variables){: #Lang-Second-Calculus}
 - [Lang - Basic Mathematics](https://www.goodreads.com/book/show/79781.Basic_Mathematics){: #Lang-Basic-Mathematics}
 - [Lang - Geometry](https://www.goodreads.com/book/show/737512.Geometry){: #Lang-Geometry}
 - [Lehman, Leighton, Meyer - Mathematics for Computer Science](https://www.goodreads.com/book/show/34554089-mathematics-for-computer-science)
-- [Morin - Probability: For the Enthusiastic Beginner](https://www.goodreads.com/en/book/show/29991429-probability)
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 - [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I){: #Ueno-Mathematical-Gift}
@@ -45,6 +46,4 @@ title: booklist
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics){: #Feynman-Physics}
-- [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics)
-- [Morin - Special Relativity: For the Enthusiastic Beginner](https://www.goodreads.com/book/show/34025346-special-relativity)
 - [Young, Freedman - University Physics with Modern Physics](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics){: #FY-University-Physics}
