@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/20/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [2.2 - Graphs](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.2%20-%20Graphs%7C966721cb-536c-40d7-a96a-a046c505296e%2F%29&wdorigin=703)
+    - [2.3 - The Straight Line](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.3%20-%20The%20Straight%20Line%7Ca935229c-6db4-4a5e-b564-f85bd7f3c2a2%2F%29&wdorigin=703)
+    - [2.4 - Distance Between Two Points](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.4%20-%20Distance%20Between%20Two%20Points%7C79b34f46-55fd-4572-9724-12c410038586%2F%29&wdorigin=703)
+
 # 10/19/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [1.3 - Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.3%20-%20Functions%7Ce2eb0c27-8f71-49f7-958b-6b5f643cea30%2F%29&wdorigin=703)
