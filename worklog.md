@@ -8,8 +8,16 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/19/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [1.3 - Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.3%20-%20Functions%7Ce2eb0c27-8f71-49f7-958b-6b5f643cea30%2F%29&wdorigin=703)
+    - [1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.3%20-%20Exercises%7C4188e389-8e5e-4b01-80ef-0a33f5a9c1fd%2F%29&wdorigin=703)
+    - [1.4 - Powers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.4%20-%20Powers%7C5fc85ec4-f2ae-4b14-ad0e-1c92838255ec%2F%29&wdorigin=703)
+    - [1.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.4%20-%20Exercises%7C78460cb6-3d67-4819-bd8f-155e0c266a3b%2F%29&wdorigin=703)
+    - [2.1 - Graphs and Curves - Coordinates](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.1%20-%20Coordinates%7C76cff683-e281-4b4c-b6ab-5a1092eb51de%2F%29&wdorigin=703)
+
 # 10/18/20
-  - [Lang - A Frist Course in Calculus](/books#Lang-First-Calculus)
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [1.2 - Inequalities](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.2%20-%20Inequalities%7C9136f73f-19ab-4765-89e0-f50d01036d6b%2F%29&wdorigin=703)
     - [1.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.2%20-%20Exercises%7Cc2a32b47-ea33-4655-a8ca-e77a17610c7a%2F%29&wdorigin=703)
 
@@ -20,7 +28,7 @@ title: tristan's worklog
 
   - I have recently joined a math and physics Discord community where I'm hoping to optimize my knowledge of such topics with the opportunity to work with others. In light of the need to work on texts the group are familiar with, I've reworked my booklist to remove several books including Apostol. This has been replaced with Serge Lang's 2 volume course on calculus, to be followed by an appropriate introductory course on physics as well as deeper forays into maths and physics.
 
-  - [Lang - A Frist Course in Calculus](/books#Lang-First-Calculus)
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [1.1 - Integers, Rational Numbers, and Real Numbers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F1.1%20-%20Integers%2C%20Rational%20Numbers%2C%20and%20%7C9c9352b2-197a-412a-b0a4-405507e8a332%2F%29&wdorigin=703)
 
 # 10/16/20
