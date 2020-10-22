@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/22/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [2.5 - Curves and Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.5%20-%20Curves%20and%20Equations%7Ce4b422c3-7178-405f-b488-ebabdbbd1c78%2F%29&wdorigin=703)
+    - [2.6 - The Circle](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.6%20-%20The%20Circle%7C467b508d-ec67-4c99-bdac-768478b47b87%2F%29&wdorigin=703)
+    - [2.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.6%20-%20Exercises%7Cb13fa4f6-3efb-4181-9955-002442f727e4%2F%29&wdorigin=703)
+
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Solving Linear Inequalities](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FSolving%20Linear%20Inequalities%7C98c5c6b5-e1ce-4e30-96a1-0c41c4bf1734%2F%29&wdorigin=703)
+
 # 10/21/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [2.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.2%20-%20Exercises%7C9f81bfb8-595a-4745-b458-ff943d608555%2F%29&wdorigin=703)
