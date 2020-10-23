@@ -8,10 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/23/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [2.7 - Dilations and the Ellipse](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.7%20-%20Dilations%20and%20the%20Ellipse%7C0242eafe-07ae-4871-b59d-bcc2d63b2428%2F%29&wdorigin=703)
+
 # 10/22/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [2.5 - Curves and Equations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.5%20-%20Curves%20and%20Equations%7Ce4b422c3-7178-405f-b488-ebabdbbd1c78%2F%29&wdorigin=703)
     - [2.6 - The Circle](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.6%20-%20The%20Circle%7C467b508d-ec67-4c99-bdac-768478b47b87%2F%29&wdorigin=703)
+      - Tried a couple notes using only latex. I liked writing the notex, but switching from typing to piecing together diagrams felt fairly unnatural compared to staying in a flow of handwriting. Think I'm going to stick with the latter.
     - [2.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.6%20-%20Exercises%7Cb13fa4f6-3efb-4181-9955-002442f727e4%2F%29&wdorigin=703)
 
   - [AoPS Alcumus](/classes#Alcumus)
