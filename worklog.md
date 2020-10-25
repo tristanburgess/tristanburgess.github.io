@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/25/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [2.7 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.7%20-%20Exercises%7C5c7fcd03-8538-4fd1-a3e0-f751e90f79cf%2F%29&wdorigin=703)
+    - [2.8 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.8%20-%20Exercises%7C8141547b-352f-412f-a03b-879ef65745ab%2F%29&wdorigin=703)
+
 # 10/24/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [2.8 - The Parabola](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.8%20-%20The%20Parabola%7Ccae2d94a-a166-4250-8c1e-479474b79649%2F%29&wdorigin=703)
