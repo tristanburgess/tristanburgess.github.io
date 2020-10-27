@@ -46,6 +46,6 @@ title: booklist
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics){: #Feynman-Physics}
-- [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics)
+- [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics){: #Morin-Problems-Intro-Mechanics}
 - [Shankar - Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics](https://www.goodreads.com/book/show/18693397-fundamentals-of-physics)
 - [Shankar - Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics](https://www.goodreads.com/book/show/27248467-fundamentals-of-physics-ii)
