@@ -8,6 +8,14 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/27/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.1 - The Derivative - The Slope of A Curve](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.1%20-%20The%20Slope%20of%20a%20Curve%7C751c8343-a227-4311-9700-82ef7e2a97db%2F%29&wdorigin=703)
+  
+  - [Morin - Problems and Solutions in Introductory Mechanics](/books#Morin-Problems-Intro-Mechanics)
+    - [1.1 - Problem-Solving Strategies - Basic Strategies](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Morin%20Problems%20and%20Solutions%20in%20Introductory%20Mechanics.one%7Cba91ed45-b937-4c97-94e6-3d54b00b7f7a%2F1.1%20-%20Basic%20Strategies%7C8a1ec6bc-b793-4073-b1da-eaf94e391044%2F%29&wdorigin=703)
+      - Finished notes on this section.
+
 # 10/26/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [2.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.9%20-%20Exercises%7Cf4e5debd-21e4-45b0-8beb-a8eddb9ed665%2F%29&wdorigin=703)
