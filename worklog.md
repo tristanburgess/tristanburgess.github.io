@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/28/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.1%20-%20Exercises%7Cf3b11b5f-e714-4da9-ad1a-e9c27ba37df3%2F%29&wdorigin=703)
+    - [3.2 - The Derivative](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.2%20-%20The%20Derivative%7Cac797bfe-be69-4a90-96d2-e56d23db2ac5%2F%29&wdorigin=703)
+    - [3.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.2%20-%20Exercises%7Ccbb79660-7cbf-4801-9e7b-54d21b55348a%2F%29&wdorigin=703)
+
 # 10/27/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.1 - The Derivative - The Slope of A Curve](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.1%20-%20The%20Slope%20of%20a%20Curve%7C751c8343-a227-4311-9700-82ef7e2a97db%2F%29&wdorigin=703)
