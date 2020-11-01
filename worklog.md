@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 10/31/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.4 - Powers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.4%20-%20Powers%7Cf19d5b6a-b164-4409-9812-7893dafae7b6%2F%29&wdorigin=703)
+    - [3.4 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.4%20-%20Exercises%7Cb5e880b5-fc22-4099-bd03-cb33cf017cb0%2F%29&wdorigin=703)
+
 # 10/30/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
       - [3.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.3%20-%20Exercises%7Cdd1cf0db-7ea2-4481-9455-01e77404b57c%2F%29&wdorigin=703)
