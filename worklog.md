@@ -8,6 +8,12 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/01/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.5 - Sums, Products, and Quotients](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.5%20-%20Sums%2C%20Products%2C%20and%20Quotients%7C66544322-cb9f-4315-8507-85b738d37056%2F%29&wdorigin=703)
+    - [3.5 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.5%20-%20Exercises%7Cb9b76822-9a0d-4fbc-8a3d-53701c2559c9%2F%29&wdorigin=703)
+    - [3.6 - The Chain Rule](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.6%20-%20The%20Chain%20Rule%7Cea4e15ca-1496-47be-a818-3d60e4d15739%2F%29&wdorigin=703)
+
 # 10/31/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.4 - Powers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.4%20-%20Powers%7Cf19d5b6a-b164-4409-9812-7893dafae7b6%2F%29&wdorigin=703)
