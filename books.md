@@ -40,6 +40,7 @@ title: booklist
 - [Lehman, Leighton, Meyer - Mathematics for Computer Science](https://www.goodreads.com/book/show/34554089-mathematics-for-computer-science)
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
+- [Shankar - Basic Training in Mathematics](https://www.goodreads.com/en/book/show/1562336.Basic_Training_in_Mathematics){: #Shankar-Math-Basic-Training}
 - [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I){: #Ueno-Mathematical-Gift}
 
 ## [Physics](https://en.wikipedia.org/wiki/Physics)
