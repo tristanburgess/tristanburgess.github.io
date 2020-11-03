@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/02/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.7 - Higher Derivatives](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.7%20-%20Higher%20Derivatives%7C4698707f-2bcd-457b-af54-ab91b9a5a344%2F%29)
+    - [3.8 - Implicit Differentiation](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.8%20-%20Implicit%20Differentiation%7C3b5a070f-fe38-44c0-b178-14350eb64c85%2F%29&wdorigin=703)
+
 # 11/01/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.5 - Sums, Products, and Quotients](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.5%20-%20Sums%2C%20Products%2C%20and%20Quotients%7C66544322-cb9f-4315-8507-85b738d37056%2F%29&wdorigin=703)
