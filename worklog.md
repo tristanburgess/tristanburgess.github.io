@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/03/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.9 - Rates of Changes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.9%20-%20Rate%20of%20Change%7Ca21ae6ef-9908-4531-8812-b75fcfaf5fdd%2F%29&wdorigin=703)
+      - Started notes for this section.
+
+  - [Shankar - Basic Training in Mathematics](/books#Shankar-Math-Basic-Training)
+    - [1.2 - Differential Calculus](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Shankar%20Math%20Basic%20Training.one%7C92b675b8-8d18-423a-b176-437cd73c922f%2F1.2%20-%20Differential%20Calculus%7C9c1bc8a4-0cbd-4d04-8291-f55263cb35dd%2F%29&wdorigin=703)
+      - Finished notes for this section.
+
 # 11/02/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.7 - Higher Derivatives](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.7%20-%20Higher%20Derivatives%7C4698707f-2bcd-457b-af54-ab91b9a5a344%2F%29)
