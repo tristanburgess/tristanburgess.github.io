@@ -8,6 +8,15 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/06/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.5 - Supplementary Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.5%20-%20Supplementary%20Exercises%7Ca383e06e-ee2f-4659-b7ca-9793db5e473f%2F%29)
+      - Finished with ex 27, 30, 37, 41, 43, 45, and 47.
+    - [3.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.6%20-%20Exercises%7C9ecba9e7-df01-4504-ade4-7c7f1e14b456%2F%29)
+      - Finished with ex 22 thru 25.
+    - [3.7 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.7%20-%20Exercises%7C6259a1b9-e18d-46e8-82f9-31b842b34ab6%2F%29)
+      - Finished with ex 9 thru 12.
+
 # 11/04/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.9 - Rates of Changes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.9%20-%20Rate%20of%20Change%7Ca21ae6ef-9908-4531-8812-b75fcfaf5fdd%2F%29&wdorigin=703)
