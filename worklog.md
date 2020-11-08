@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/08/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [3.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.9%20-%20Exercises%7Ccabc7887-42fe-466d-80dd-06d4ebbf043b%2F%29&wdorigin=703)
+      - Did ex 1 thru 10.
+
 # 11/07/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.8 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.8%20-%20Exercises%7C31a6fbcb-13b7-4378-951f-f4cd4f5aae0c%2F%29&wdorigin=703)
