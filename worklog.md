@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/10/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [4.0 - Review of Radian Measure](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.0%20-%20Review%20of%20Radian%20Measure%7Cc878c75a-85ef-45bf-9cc8-9592faef8812%2F%29&wdorigin=703)
+    - [4.0 - Exercise](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.0%20-%20Review%20of%20Radian%20Measure%7Cc878c75a-85ef-45bf-9cc8-9592faef8812%2F%29&wdorigin=703)
+
 # 11/09/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [3.9 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F3.9%20-%20Exercises%7Ccabc7887-42fe-466d-80dd-06d4ebbf043b%2F%29&wdorigin=703)
