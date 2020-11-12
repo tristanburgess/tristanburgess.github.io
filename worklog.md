@@ -8,6 +8,14 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/11/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [4.1 - The Sine and Cosine Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.1%20-%20The%20Sine%20and%20Cosine%20Functions%7C3e2770ff-ba25-4542-9c0b-da34262870e7%2F%29&wdorigin=703)
+    - [4.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.1%20-%20Exercises%7C46ef7369-76dd-4cca-826a-1af61e49f665%2F%29&wdorigin=703)
+
+  - [Bloch - The Real Numbers and Real Analysis](/books#Bloch-Real-Analysis)
+    - [1.2 - Entry 1: Axioms for the Natural Numbers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Bloch%20The%20Real%20Numbers%20and%20Real%20Analysis.one%7C70a54fc1-7440-4ee6-a453-7d63fda540cc%2F1.2%20-%20Entry%201%20Axioms%20for%20the%20%7C5b652932-451f-4111-ba72-025bfab0ef05%2F%29&wdorigin=703)
+
 # 11/10/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.0 - Review of Radian Measure](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.0%20-%20Review%20of%20Radian%20Measure%7Cc878c75a-85ef-45bf-9cc8-9592faef8812%2F%29&wdorigin=703)
@@ -147,6 +155,9 @@ title: tristan's worklog
     - [2.2 - Graphs](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.2%20-%20Graphs%7C966721cb-536c-40d7-a96a-a046c505296e%2F%29&wdorigin=703)
     - [2.3 - The Straight Line](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.3%20-%20The%20Straight%20Line%7Ca935229c-6db4-4a5e-b564-f85bd7f3c2a2%2F%29&wdorigin=703)
     - [2.4 - Distance Between Two Points](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F2.4%20-%20Distance%20Between%20Two%20Points%7C79b34f46-55fd-4572-9724-12c410038586%2F%29&wdorigin=703)
+
+  - [Bloch - The Real Numbers and Real Analysis](/books#Bloch-Real-Analysis)
+    - [1.1 - Construction of the Real Numbers - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Bloch%20The%20Real%20Numbers%20and%20Real%20Analysis.one%7C70a54fc1-7440-4ee6-a453-7d63fda540cc%2F1.1%20-%20Introduction%7C0ef3e429-6863-4a82-8549-cc2bbf136070%2F%29&wdorigin=703)
 
 # 10/19/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
