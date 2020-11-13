@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/12/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [4.2 - The Graphs](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.2%20-%20The%20Graphs%7C4a6115d9-4104-46ea-90b5-9f616ee9c9b1%2F%29&wdorigin=703)
+
 # 11/11/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.1 - The Sine and Cosine Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.1%20-%20The%20Sine%20and%20Cosine%20Functions%7C3e2770ff-ba25-4542-9c0b-da34262870e7%2F%29&wdorigin=703)
