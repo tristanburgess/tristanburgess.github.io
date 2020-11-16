@@ -8,6 +8,14 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/15/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [4.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.2%20-%20Exercises%7C0cfbe9c0-1707-4104-bced-bdf1178131b9%2F%29&wdorigin=703)
+      - Did exercises 4-8.
+
+  - [Designing Data-Intensive Applications](/books#Designing-Data-Intensive-Applications)
+    - [Chapter 2 - Data Models and Query Languages - Relational Model vs Document Model](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Designing%20Data-Intensive%20Applications.one%7Cd2a4fc41-95c8-4147-a491-9156b23a3b69%2F2.1%20-%20Relational%20Model%20vs%20Document%20Model%7C11d0dde1-dd24-4745-97fa-621825309cba%2F%29&wdorigin=703)  
+  
 # 11/13/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.2%20-%20Exercises%7C0cfbe9c0-1707-4104-bced-bdf1178131b9%2F%29&wdorigin=703)
