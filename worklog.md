@@ -8,10 +8,19 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/29/20
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Multiplying Binomials](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMultiplying%20Binomials%7C6bacc062-6e93-4299-be73-b97ded4f6728%2F%29&wdorigin=703)
+    - [Algebra - Factoring Monic Quadratics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFactoring%20Monic%20Quadratics%7Cc472d4e7-61cd-4ab4-a0ce-2ac96993ba8a%2F%29&wdorigin=703)
+
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [4.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.6%20-%20Exercises%7Cf11642a0-b8be-4f2f-81f9-1e81f70831d9%2F%29&wdorigin=703)
+      - Finished with ex 27-30, 37.
+
 # 11/28/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.6%20-%20Exercises%7Cf11642a0-b8be-4f2f-81f9-1e81f70831d9%2F%29&wdorigin=703)
-      - Did ex 1-13, 16, 17.
+      - Did ex 20, 23-26.
   
   - [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](/books#3D-Math-Primer)
     - [1.1 - Cartesian Coordinate Systems - 1D Mathematics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.1%20-%201D%20Mathematics%7Cafa32898-d3a3-4260-a2d0-81ec00c34892%2F%29&wdorigin=703)
@@ -22,7 +31,7 @@ title: tristan's worklog
 # 11/27/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.6%20-%20Exercises%7Cf11642a0-b8be-4f2f-81f9-1e81f70831d9%2F%29&wdorigin=703)
-      - Did ex 20, 23-26.
+      - Did ex 1-13, 16, 17.
 
 # 11/26/20
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
