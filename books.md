@@ -27,7 +27,7 @@ title: booklist
 ## [Math](https://en.wikipedia.org/wiki/Mathematics)
 - [Bloch - The Real Numbers and Real Analysis](https://www.goodreads.com/book/show/13707101-the-real-numbers-and-real-analysis){: #Bloch-Real-Analysis}
 - [Courant, Robbins - What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/584620.What_Is_Mathematics_){: #Courant-What-Is-Mathematics}
-- [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](https://www.goodreads.com/book/show/10226560-3d-math-primer-for-graphics-and-game-development)
+- [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](https://www.goodreads.com/book/show/10226560-3d-math-primer-for-graphics-and-game-development){: #3D-Math-Primer}
 - [Gelfand - Algebra](https://www.goodreads.com/book/show/2140100.Algebra)
 - [Gelfand - Trigonometry](https://www.goodreads.com/book/show/1414631.Trigonometry)
 - [Gelfand - The Method of Coordinates](https://www.goodreads.com/book/show/946677.The_Method_of_Coordinates)

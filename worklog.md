@@ -8,10 +8,21 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/28/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [4.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.6%20-%20Exercises%7Cf11642a0-b8be-4f2f-81f9-1e81f70831d9%2F%29&wdorigin=703)
+      - Did ex 1-13, 16, 17.
+  
+  - [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](/books#3D-Math-Primer)
+    - [1.1 - Cartesian Coordinate Systems - 1D Mathematics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.1%20-%201D%20Mathematics%7Cafa32898-d3a3-4260-a2d0-81ec00c34892%2F%29&wdorigin=703)
+    - [1.2.1 - 2D Mathematics - An Example: The Hypothetical City of Cartesia](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.2.1%20-%20An%20Example%20The%20%7Cd3d6abfa-a4d0-461f-bc67-29721dec051c%2F%29&wdorigin=703)
+    - [1.2.2 - Arbitrary 2D Coordinate Spaces](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.2.2%20-%20Arbitrary%202D%20Coordinate%20Spaces%7Cbd4827f6-e571-429a-aaaf-5e8daf64e860%2F%29&wdorigin=703)
+    - [1.2.3 - Specifying Locations in 2D Using Cartesian Coordinates](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.2.3%20-%20Specifying%20Locations%20in%202D%20%7C515110e8-88e9-4837-be7f-ceff128228ec%2F%29&wdorigin=703)
+
 # 11/27/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.6%20-%20Exercises%7Cf11642a0-b8be-4f2f-81f9-1e81f70831d9%2F%29&wdorigin=703)
-      - Finished with ex 1-13, 16, 17.
+      - Did ex 20, 23-26.
 
 # 11/26/20
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
