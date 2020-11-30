@@ -16,6 +16,10 @@ title: tristan's worklog
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [4.6 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F4.6%20-%20Exercises%7Cf11642a0-b8be-4f2f-81f9-1e81f70831d9%2F%29&wdorigin=703)
       - Finished with ex 27-30, 37.
+  
+  - [CSE 341 - Programming Languages](/classes#CSE-341-Programming-Languages)
+    - [1.1 - ML Variable Bindings; Semantics; Expressions - Readings](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FReadings%7C429cbf34-827d-4b19-a1ed-f067485047aa%2F%29&wdorigin=703)
+    - [1.1 - ML Variable Bindings; Semantics; Expressions - Videos](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FVideos%7Ce69adb3d-60b1-4f83-ae96-ad4f0fae7c3a%2F%29&wdorigin=703)
 
 # 11/28/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
