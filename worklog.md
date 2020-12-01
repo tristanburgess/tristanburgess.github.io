@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 11/30/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [5.1 - The Maximum and Minimum Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.1%20-%20The%20Maximum%20and%20Minimum%20Theorem%7C338c705d-721b-472f-9f68-a708d36631f4%2F%29&wdorigin=703)
+
 # 11/29/20
   - [AoPS Alcumus](/classes#Alcumus)
     - [Algebra - Multiplying Binomials](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FMultiplying%20Binomials%7C6bacc062-6e93-4299-be73-b97ded4f6728%2F%29&wdorigin=703)
