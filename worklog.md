@@ -8,6 +8,17 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 12/1/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [5.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.1%20-%20Exercises%7C202a68de-7219-4da5-883b-e7bf8b69a986%2F%29&wdorigin=703)
+      - Finished with ex 1, 3, 5, 7-10.
+    - [5.2 - Increasing and Decreasing Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.2%20-%20Increasing%20and%20Decreasing%20Functions%7C8ab8ba89-fa45-4958-a9a6-7b6c1f24111f%2F%29&wdorigin=703)
+      - Started notes on this section
+    
+  - [CSE 341 - Programming Languages](/classes#CSE-341-Programming-Languages)
+    - [Section 1 - Emacs/SML Mode, Shadowing, SML Errors - Readings](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FReadings%7Cc0a6645e-763b-474e-9b75-8964bcb18700%2F%29&wdorigin=703)
+    - [Section 1 - Emacs/SML Mode, Shadowing, SML Errors - Videos](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FVideos%7C337876de-affa-46fb-8018-6963e5cdaab7%2F%29&wdorigin=703)
+
 # 11/30/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [5.1 - The Maximum and Minimum Theorem](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.1%20-%20The%20Maximum%20and%20Minimum%20Theorem%7C338c705d-721b-472f-9f68-a708d36631f4%2F%29&wdorigin=703)
@@ -22,8 +33,8 @@ title: tristan's worklog
       - Finished with ex 27-30, 37.
   
   - [CSE 341 - Programming Languages](/classes#CSE-341-Programming-Languages)
-    - [1.1 - ML Variable Bindings; Semantics; Expressions - Readings](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FReadings%7C429cbf34-827d-4b19-a1ed-f067485047aa%2F%29&wdorigin=703)
-    - [1.1 - ML Variable Bindings; Semantics; Expressions - Videos](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FVideos%7Ce69adb3d-60b1-4f83-ae96-ad4f0fae7c3a%2F%29&wdorigin=703)
+    - [Lecture 1 - ML Variable Bindings; Semantics; Expressions - Readings](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FReadings%7C429cbf34-827d-4b19-a1ed-f067485047aa%2F%29&wdorigin=703)
+    - [Lecture 1 - ML Variable Bindings; Semantics; Expressions - Videos](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CSE%20341%20Programming%20Languages.one%7Cc7ed9334-82e2-473d-8d43-2f365b6cd223%2FVideos%7Ce69adb3d-60b1-4f83-ae96-ad4f0fae7c3a%2F%29&wdorigin=703)
 
 # 11/28/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
