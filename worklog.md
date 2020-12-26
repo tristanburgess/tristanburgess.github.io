@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 12/26/20
+  - I'm back, again!
+    - Sometimes you have to answer a call to arms in life for various reasons, and this time around it was work's turn. I've been trying to go as relentlessly at a hard problem that came up on the job as I would otherwise when I switch gears and push my self-studying work. I'm not out of the goo yet, but the clouds are starting to clear, if only a little. Now that I'm on holiday break, seems right to get back into the swing of things and make a step back towards normalcy.
+
 # 12/1/20
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [5.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.1%20-%20Exercises%7C202a68de-7219-4da5-883b-e7bf8b69a986%2F%29&wdorigin=703)
