@@ -7,7 +7,7 @@ title: classlist
 
 ## [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 - [CMU 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
-- [Georgia Tech - CS 3210 - Design Operating Systems in Rust](https://tc.gts3.org/cs3210/2020/spring/index.html)
+- [Georgia Tech - CS 3210 - Design Operating Systems in Rust](https://tc.gts3.org/cs3210/2020/spring/index.html){: #GA-CS3210}
 - [Graphics Codex - Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - [Hack The Kernel](https://github.com/ops-class)
 - [nand2tetris](https://www.nand2tetris.org/){: #nand2tetris}

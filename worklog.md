@@ -8,6 +8,10 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 12/27/20
+  - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
+    - [Lecture 1 - Designing Operating Systems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=Edit&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FLecture%201%20-%20Designing%20Operating%20Systems%7Cbbec41b3-f922-43d2-a218-46d23c1e1255%2F%29&wdorigin=703)
+
 # 12/26/20
   - I'm back, again!
     - Sometimes you have to answer a call to arms in life for various reasons, and this time around it was work's turn. I've been trying to go as relentlessly at a hard problem that came up on the job as I would otherwise when I switch gears and push my self-studying work. I'm not out of the goo yet, but the clouds are starting to clear, if only a little. Now that I'm on holiday break, seems right to get back into the swing of things and make a step back towards normalcy.
