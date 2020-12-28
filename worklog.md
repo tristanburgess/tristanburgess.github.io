@@ -8,6 +8,13 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 12/28/20
+  - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
+    - [Video 1 - Is It Time to Rewrite the Operating System in Rust?](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FVideo%201%20-%20Is%20It%20Time%20to%20Rewrite%20the%20Operating%20%7C3d51fdc8-3a1d-4a7b-af20-d66a707db8c3%2F%29&wdorigin=703)
+
+  - [AoPS Alcumus](/classes#Alcumus)
+    - [Algebra - Factorizing General Quadratics](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FFactorizing%20General%20Quadratics%7C885cc43a-9121-4079-a78e-440f6f28a6fe%2F%29&wdorigin=703)
+
 # 12/27/20
   - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
     - [Lecture 1 - Designing Operating Systems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=Edit&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FLecture%201%20-%20Designing%20Operating%20Systems%7Cbbec41b3-f922-43d2-a218-46d23c1e1255%2F%29&wdorigin=703)
