@@ -8,6 +8,11 @@ title: tristan's worklog
 ### Currently only tracking non-code (non-committed) work here. This may include (non-code) homeworks, designs, notes, thoughts etc.
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
+# 12/29/20
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [5.2 - Increasing and Decreasing Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.2%20-%20Increasing%20and%20Decreasing%20Functions%7C8ab8ba89-fa45-4958-a9a6-7b6c1f24111f%2F%29&wdorigin=703)
+      - Reviewed some previous sections and resumed notes on this one.
+
 # 12/28/20
   - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
     - [Video 1 - Is It Time to Rewrite the Operating System in Rust?](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FVideo%201%20-%20Is%20It%20Time%20to%20Rewrite%20the%20Operating%20%7C3d51fdc8-3a1d-4a7b-af20-d66a707db8c3%2F%29&wdorigin=703)
