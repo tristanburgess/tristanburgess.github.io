@@ -23,6 +23,7 @@ title: booklist
 - [Skiena - The Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
 - [Sedgewick, Wayne - Algorithms](https://www.goodreads.com/en/book/show/10803540)
 - [Sedgewick, Wayne - Computer Science: An Interdisciplinary Approach](https://www.goodreads.com/book/show/26260896-computer-science){: #Computer-Science-AIA}
+- [Shirley - Ray Tracing in One Weekend](https://www.goodreads.com/book/show/28794030-ray-tracing-in-one-weekend)
 
 ## [Math](https://en.wikipedia.org/wiki/Mathematics)
 - [Bloch - The Real Numbers and Real Analysis](https://www.goodreads.com/book/show/13707101-the-real-numbers-and-real-analysis){: #Bloch-Real-Analysis}
