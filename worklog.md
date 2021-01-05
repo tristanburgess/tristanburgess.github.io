@@ -9,7 +9,7 @@ title: tristan's worklog
 ### For code-specific work, see my repos and commit history on [my GitHub](https://github.com/tristanburgess)
 
 # It's a new year!
-My worklog for 2020 has been completed, and can be found [here](/worklog_2020.md)
+My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
 # 01/04/21
