@@ -12,6 +12,11 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 01/05/21
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [5.2 - Increasing and Decreasing Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.2%20-%20Increasing%20and%20Decreasing%20Functions%7C8ab8ba89-fa45-4958-a9a6-7b6c1f24111f%2F%29&wdorigin=703)
+      - Going further through this section, almost done!
+
 # 01/04/21
   - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
     - [Reading 3 - The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FReading%203%20-%20The%20Benefits%20and%20Costs%20of%20Writing%20a%20%7Ca4eeb41d-451e-48f1-bdc5-3eca465a7490%2F%29&wdorigin=703)
