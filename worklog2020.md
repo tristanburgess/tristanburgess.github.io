@@ -354,9 +354,6 @@ title: tristan's worklog - 2020
   - [1.1.11 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.11%20-%20Exercises%7C5a23178e-4fe2-4ed0-bd7d-5c102852c76c%2F%29&wdorigin=703)
     - Finished exercises 2 and 3, started exercise 4.
 
-  - [Ueno - A Mathematical Gift, I](/books#Ueno-Mathematical-Gift)
-    - [1.1 - Invitation to Topology - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28A%20Mathematical%20Gift.one%7C69586cfa-03f3-4cf6-89cb-a955b117bbf6%2FIntroduction%7C04121fa7-b94f-4b41-af25-92b9273e2602%2F%29&wdorigin=703)
-
 # 10/12/20
  - [Apostol - Calculus Vol I](/books#Calculus-Vol-I)
   - [1.1.7 - Exercises Revised](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Apostol%20Calculus%20Vol%20I.one%7Cbfc20f17-324e-4eec-835f-36e32bfedb36%2F1.7%20-%20Exercises%20Revised%7Ca3ff4e65-1f17-40ee-8bd7-85bf75fed7a7%2F%29&wdorigin=703)
@@ -818,10 +815,6 @@ title: tristan's worklog - 2020
   - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
     - [1.4 - Arrays](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.4%20-%20Arrays%7C5cb89ec7-e25d-4ed5-b656-2e4edd1812da%2F%29&wdorigin=703)
       - Finished notes for this section.
-
-  - [Gelfand - Functions and Graphs](/books#Gelfand-Functions-and-Graphs)
-    - [Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Gelfand%20Functions%20and%20Graphs.one%7C535fae3c-7dcc-4be8-9ef0-dc53fd3470c2%2FIntroduction%7C0814c744-7f65-4161-b4e7-0e4755a6a09b%2F%29&wdorigin=703)
-      - Worked through very basic definition of mathematical function and some examples.
 
   - [AoPS Alcumus](/classes#Alcumus)
     - [Prealgebra - Arithmetic - Addition](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28AoPS%20Alcumus.one%7C4901bef2-e029-47cf-8758-9ed060dd5ab1%2FAddition%7Cc330347b-bb60-4d54-b778-5d30fb7de77b%2F%29&wdorigin=703)

@@ -12,6 +12,13 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 01/06/21
+  - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
+    - [1.5 - Caches Matter](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F1.5%20-%20Caches%20Matter%7C1af6e5c9-4f9c-4c34-a14d-250073cc77c4%2F%29&wdorigin=703)
+    - [1.6 - Storage Devices Form a Hierarchy](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F1.6%20-%20Storage%20Devices%20Form%20a%20Hierarchy%7C0daf754b-5430-4eb8-a451-4d819a688808%2F%29&wdorigin=703)
+    - [1.7 - The Operating System Manages the Hardware](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F1.7%20-%20The%20Operating%20System%20Manages%20the%20Hardware%7C7f8582bf-63f1-4022-aaac-9d0d035bddcd%2F%29&wdorigin=703)
+    - [1.8 - Systems Communicate with Other Systems Using Networks](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F1.8%20-%20Systems%20Communicate%20with%20Other%20Systems%20Using%20%7C173622b9-9a5b-4121-b36c-4f7f11014da7%2F%29&wdorigin=703)
+
 # 01/05/21
   - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
     - [5.2 - Increasing and Decreasing Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.2%20-%20Increasing%20and%20Decreasing%20Functions%7C8ab8ba89-fa45-4958-a9a6-7b6c1f24111f%2F%29&wdorigin=703)

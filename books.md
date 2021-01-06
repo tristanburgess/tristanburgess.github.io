@@ -26,13 +26,10 @@ title: booklist
 - [Shirley - Ray Tracing in One Weekend](https://www.goodreads.com/book/show/28794030-ray-tracing-in-one-weekend)
 
 ## [Math](https://en.wikipedia.org/wiki/Mathematics)
+- [Bloch - Proofs and Fundamentals](https://www.goodreads.com/book/show/35153820-proofs-and-fundamentals){: #Bloch-Proofs-Fundamentals}
 - [Bloch - The Real Numbers and Real Analysis](https://www.goodreads.com/book/show/13707101-the-real-numbers-and-real-analysis){: #Bloch-Real-Analysis}
 - [Courant, Robbins - What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/584620.What_Is_Mathematics_){: #Courant-What-Is-Mathematics}
 - [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](https://www.goodreads.com/book/show/10226560-3d-math-primer-for-graphics-and-game-development){: #3D-Math-Primer}
-- [Gelfand - Algebra](https://www.goodreads.com/book/show/2140100.Algebra)
-- [Gelfand - Trigonometry](https://www.goodreads.com/book/show/1414631.Trigonometry)
-- [Gelfand - The Method of Coordinates](https://www.goodreads.com/book/show/946677.The_Method_of_Coordinates)
-- [Gelfand - Functions and Graphs](https://www.goodreads.com/book/show/8796338-functions-and-graphs){: #Gelfand-Functions-and-Graphs}
 - [Graham, Knuth, Pratashnik - Concrete Mathematics: A Foundation for Computer Science](https://www.goodreads.com/book/show/112243.Concrete_Mathematics)
 - [Lang - A First Course in Calculus](https://www.goodreads.com/book/show/860480.A_First_Course_in_Calculus){: #Lang-First-Calculus}
 - [Lang - Calculus of Several Variables](https://www.goodreads.com/book/show/681184.Calculus_of_Several_Variables){: #Lang-Second-Calculus}
@@ -43,11 +40,12 @@ title: booklist
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 - [Shankar - Basic Training in Mathematics](https://www.goodreads.com/en/book/show/1562336.Basic_Training_in_Mathematics){: #Shankar-Math-Basic-Training}
 - [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I){: #Ueno-Mathematical-Gift}
+- [Velleman - How To Prove It](https://www.goodreads.com/book/show/739735.How_to_Prove_It){: #Velleman-How-To-Prove-It}
 
 ## [Physics](https://en.wikipedia.org/wiki/Physics)
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics){: #Feynman-Physics}
 - [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics){: #Morin-Problems-Intro-Mechanics}
-- [Shankar - Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics](https://www.goodreads.com/book/show/18693397-fundamentals-of-physics)
+- [Shankar - Fundamentals of Physics I: Mechanics, Relativity, and Thermodynamics](https://www.goodreads.com/book/show/18693397-fundamentals-of-physics)
 - [Shankar - Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics](https://www.goodreads.com/book/show/27248467-fundamentals-of-physics-ii)
