@@ -26,3 +26,4 @@ title: classlist
 ## [Math](https://en.wikipedia.org/wiki/Mathematics)
 - [AoPS - Alcumus](https://artofproblemsolving.com/alcumus){: #Alcumus}
 - [MIT - 6.042j - Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+- [MIT - 18.06SC - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)

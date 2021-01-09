@@ -11,6 +11,7 @@ title: booklist
 - [Barroso, Clidaras, Hölzle - The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://www.goodreads.com/book/show/5732978-the-datacenter-as-a-computer)
 - [Bryant, O'Hallaron - Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/25403633-computer-systems){: #CSAPP}
 - [Cooper, Torczon - Engineering a Compiler](https://www.goodreads.com/book/show/3408316-engineering-a-compiler-second-edition)
+- [Gregory - Game Engine Architecture](https://www.goodreads.com/book/show/6709076-game-engine-architecture){: #Game-Engine-Arch}
 - [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){: #Pragmatic-Programmer}
 - [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications){: #Designing-Data-Intensive-Applications}
 - [Kurose, Ross - Computer Networking: A Top-Down Approach](https://www.goodreads.com/book/show/83847.Computer_Networking)
@@ -39,6 +40,7 @@ title: booklist
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 - [Shankar - Basic Training in Mathematics](https://www.goodreads.com/en/book/show/1562336.Basic_Training_in_Mathematics){: #Shankar-Math-Basic-Training}
+- [Strang - Introduction to Linear Algebra](https://www.goodreads.com/book/show/179700.Introduction_to_Linear_Algebra){: #Strang-LA}
 - [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I){: #Ueno-Mathematical-Gift}
 - [Velleman - How To Prove It](https://www.goodreads.com/book/show/739735.How_to_Prove_It){: #Velleman-How-To-Prove-It}
 
@@ -46,6 +48,8 @@ title: booklist
 - [Epstein - Thinking Physics: Understandable Practical Reality](https://www.goodreads.com/book/show/268266.Thinking_Physics){: #Epstein-Thinking-Physics}
 - [Feynman, Gottlieb, Leighton - Feynman's Tips On Physics: A Problem-Solving Supplement to the Feynman Lecture's on Physics](https://www.goodreads.com/en/book/show/5547)
 - [Feynman, Leighton, Sands - The Feynamn Lecture on Physics](https://www.goodreads.com/book/show/5546.The_Feynman_Lectures_on_Physics){: #Feynman-Physics}
+- [Morin - Probability: For the Enthusiastic Beginner](https://www.goodreads.com/book/show/29991429-probability){: #Morin-Probability}
 - [Morin - Problems and Solutions in Introductory Mechanics](https://www.goodreads.com/book/show/23222800-problems-and-solutions-in-introductory-mechanics){: #Morin-Problems-Intro-Mechanics}
+- [Morin - Special Relativity: For the Enthusiastic Beginner](https://www.goodreads.com/book/show/34025346-special-relativity){: #Morin-SR}
 - [Shankar - Fundamentals of Physics I: Mechanics, Relativity, and Thermodynamics](https://www.goodreads.com/book/show/18693397-fundamentals-of-physics)
 - [Shankar - Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics](https://www.goodreads.com/book/show/27248467-fundamentals-of-physics-ii)
