@@ -12,6 +12,20 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 01/09/21
+  - [CMU 15-213 - Intro to Computer Systems](/classes#CMU-15-213)
+    - [Lecture 1 - Course Overview](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F15-213%20Lecture%201%20-%20Course%20Overview%7Cdfffa450-1268-4b7f-bade-801effa426c6%2F%29&wdorigin=703)
+
+  - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
+    - [Lecture 3 - Rust 2: Ownership and Lifetime Part 1](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FLecture%203%20-%20Rust%202%20Ownership%20and%20Lifetime%20Part%20%7C30abdaae-ad18-43ec-a815-c1313410eb6c%2F%29&wdorigin=703)
+      - Finished notes for this section.
+
+  - [Lang - A First Course in Calculus](/books#Lang-First-Calculus)
+    - [5.2 - Increasing and Decreasing Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.2%20-%20Increasing%20and%20Decreasing%20Functions%7C8ab8ba89-fa45-4958-a9a6-7b6c1f24111f%2F%29&wdorigin=703)
+      - Finished notes for this section.
+    - [5.2 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20First%20Course%20in%20Calculus.one%7C312499ae-400b-4468-94f5-b2bad9ef2ba5%2F5.2%20-%20Exercises%7C15652124-b2ba-4a89-a567-099f10d6753e%2F%29&wdorigin=703)
+      - Did ex 1-8 
+
 # 01/08/21
   - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
     - [1.9 - Practice Problems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F1.9%20-%20Important%20Themes%7Ce5470fa1-2644-4de4-a431-4196a1cf2cd3%2F%29&wdorigin=703)
