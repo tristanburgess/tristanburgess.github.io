@@ -12,6 +12,12 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 01/10/21
+  - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
+    - [Reading 4 - Rust 2: Ownership and Lifetime Part 2](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FReading%204%20-%20Rust%202%20Ownership%20and%20Lifetime%20Part%20%7C2e97386b-b2a4-4a62-9c9c-e79ba65eb8a2%2F%29&wdorigin=703)
+    - [Lecture 4 - Rust 2: Ownership and Lifetime Part 2](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FLecture%204%20-%20Rust%202%20Ownership%20and%20Lifetime%20Part%20%7C4201090b-534b-470c-9288-7c9a20090814%2F%29&wdorigin=703)
+    - [Lecture 5 - Video 5 - Eben Upton on the Raspberry Pi 3](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FVideo%205%20-%20Eben%20Upton%20on%20the%20Raspberry%20Pi%203%7Cf7854ea0-bfa5-44dc-adb3-6ad4226d770a%2F%29&wdorigin=703)
+
 # 01/09/21
   - [CMU 15-213 - Intro to Computer Systems](/classes#CMU-15-213)
     - [Lecture 1 - Course Overview](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F15-213%20Lecture%201%20-%20Course%20Overview%7Cdfffa450-1268-4b7f-bade-801effa426c6%2F%29&wdorigin=703)
