@@ -15,6 +15,7 @@ title: classlist
 - [pingcap - Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/blob/master/courses/rust/README.md)
 - [Princeton - COS 126 - CS Fundamentals](https://www.cs.princeton.edu/courses/archive/spring20/cos126/){: #Princeton-COS-126}
 - [Princeton - COS 226 - CS Alg & DS](https://www.cs.princeton.edu/courses/archive/spring20/cos226/)
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer)
 - [UC Berkeley - CS 61C - Great Ideas in Computer Architecture](https://cs61c.org/su20/){: #UCB-CS61C}
 - [UC Berkeley - CS 162 - Operating Systems and System Programming](https://cs162.eecs.berkeley.edu/)
 - [UC Berkeley - CS 184 - Intro to Computer Graphics](https://cs184.eecs.berkeley.edu/sp20)

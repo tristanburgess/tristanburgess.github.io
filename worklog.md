@@ -12,6 +12,12 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 01/18/21
+  - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
+    - [Reading 6](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FReading%206%20-%20Rustonomicon%20Ch%201%7C81a6e2ac-4e3a-4ca9-b4ae-e6bf65dfdd47%2F%29&wdorigin=703)
+    - [Video 6](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FVideo%206%20-%20Writing%20Linux%20Kernel%20Modules%20in%20Safe%20Rust%7C51acefbd-9750-4734-b38e-5b1f9e490794%2F%29&wdorigin=703)
+    - [Lecture 6](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FLecture%206%20-%20Rust%203%20Unsafety%7C17c180f9-6b76-4776-bffd-4ec943445913%2F%29&wdorigin=703)
+
 # 01/10/21
   - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
     - [Reading 4 - Rust 2: Ownership and Lifetime Part 2](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FReading%204%20-%20Rust%202%20Ownership%20and%20Lifetime%20Part%20%7C2e97386b-b2a4-4a62-9c9c-e79ba65eb8a2%2F%29&wdorigin=703)
