@@ -11,6 +11,7 @@ title: booklist
 - [Barroso, Clidaras, Hölzle - The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://www.goodreads.com/book/show/5732978-the-datacenter-as-a-computer)
 - [Bryant, O'Hallaron - Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/25403633-computer-systems){: #CSAPP}
 - [Cooper, Torczon - Engineering a Compiler](https://www.goodreads.com/book/show/3408316-engineering-a-compiler-second-edition)
+- [Gregg - Systems Performance: Enterprise and the Cloud](https://www.goodreads.com/en/book/show/18058001-systems-performance)
 - [Gregory - Game Engine Architecture](https://www.goodreads.com/book/show/6709076-game-engine-architecture){: #Game-Engine-Arch}
 - [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){: #Pragmatic-Programmer}
 - [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications){: #Designing-Data-Intensive-Applications}

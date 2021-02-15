@@ -12,6 +12,11 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 02/14/21
+  - [Computer Science: An Interdisciplinary Approach](/books#Computer-Science-AIA)
+    - [Ch 1.3 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2F1.3%20-%20Exercises%7C79fc421d-488b-4532-b123-125b3c8c0a67%2F%29&wdorigin=703)
+      - ex 3 & 5
+
 # 01/18/21
   - [Georgia Tech CS3210 - Design Operating Systems in Rust](/classes#GA-CS3210)
     - [Reading 6](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28CS3210%20-%20Design%20Operating%20Systems.one%7C1f596ef2-eb5d-41b3-b6cc-a46be85bdef0%2FReading%206%20-%20Rustonomicon%20Ch%201%7C81a6e2ac-4e3a-4ca9-b4ae-e6bf65dfdd47%2F%29&wdorigin=703)
