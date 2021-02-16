@@ -13,6 +13,11 @@ My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
 # 02/15/21
+  - [Basic Mathematics](/books#Lang-Basic-Mathematics)
+    - [Ch 2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F2.1%20-%20Exercises%7Cf4f61738-9d66-47a6-9cea-61b3540c19d6%2F%29&wdorigin=703)
+      - Finished with ex 9 parts b thru d, 10 and 11.
+      
+# 02/15/21
   - [Cracking the Coding Interview](/books#Cracking-The-Coding-Interview)
     - [Chapter 5 - Behavioral Questions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Cracking%20the%20Coding%20Interview.one%7C2a8643bf-ea3c-48a0-84fc-9d633dffea84%2FChapter%205%20-%20Behavioral%20Questions%7Ca71da66e-289f-4261-bd11-429f69b3b572%2F%29&wdorigin=703
 
