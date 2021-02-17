@@ -12,6 +12,10 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 02/17/21
+  - [Princeton COS 126 - CS Fundamentals](/classes#Princeton-COS-126)
+    - [Precept 4 - Arrays](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Precept%204%20-%20Arrays%7Cbf5c78bd-4f43-40d4-b89f-18d9a969be39%2F%29&wdorigin=703)
+
 # 02/16/21
   - [Basic Mathematics](/books#Lang-Basic-Mathematics)
     - [Ch 2.1 - Exercises](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Serge%20Lang%20Basic%20Math.one%7C5d99423c-be72-493c-8211-f38610ed41b0%2F2.1%20-%20Exercises%7Cf4f61738-9d66-47a6-9cea-61b3540c19d6%2F%29&wdorigin=703)
