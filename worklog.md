@@ -12,6 +12,13 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 02/18/21
+  - [Pragmatic Programmer](/books#Pragmatic-Programmer)
+    - [Ch 1.3 - Stone Soup and Boiled Frogs](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FStone%20Soup%20and%20Boiled%20Frogs%7C58d6783c-54cf-499c-a237-c3ee681fae95%2F%29&wdorigin=703)
+    - [Ch 1.4 - Good-Enough Software](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FGood-Enough%20Software%7C1d666425-1e66-4d82-a87c-7202d8568857%2F%29&wdorigin=703)
+    - [Ch 1.5 - Your Knowledge Portfolio](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FYour%20Knowledge%20Portfolio%7Ce597c939-f1e3-4940-81b3-154c746ce38b%2F%29&wdorigin=703)
+    - [Ch 1.6 - Communicate!](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FCommunicate%21%7C6b23e56b-0357-4568-b383-a74f85079fb8%2F%29&wdorigin=703)
+
 # 02/17/21
   - [Princeton COS 126 - CS Fundamentals](/classes#Princeton-COS-126)
     - [Precept 4 - Arrays](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Science%20-%20An%20Interdisciplinary%20Approach.one%7C2786e449-c07b-4334-80b4-57075a98ffc7%2FCOS%20126%20Precept%204%20-%20Arrays%7Cbf5c78bd-4f43-40d4-b89f-18d9a969be39%2F%29&wdorigin=703)
