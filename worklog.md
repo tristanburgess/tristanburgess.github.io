@@ -12,6 +12,17 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 02/20/21
+  - [Pragmatic Programmer](/books#Pragmatic-Programmer)
+    - [Ch 2.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FIntro%7C87340306-2296-4dea-b021-816411c8f12d%2F%29&wdorigin=703)
+    - [Ch 2.2 - The Evils of Duplication](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FThe%20Evils%20of%20Duplication%7C83cf3a8c-b5ad-4c26-b123-849ea52f513e%2F%29&wdorigin=703)
+    - [Ch 2.3 - Orthogonality](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FOrthogonality%7C9af630af-7be5-42ce-8288-7c738076a7bc%2F%29&wdorigin=703)
+    - [Ch 2.4 - Reversibility](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FReversibility%7Cdc9d8c9e-578c-4e9f-b1b3-52683232b23f%2F%29&wdorigin=703)
+    - [Ch 2.5 - Tracer Bullets](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FTracer%20Bullets%7C19256e49-1b48-4209-a279-f64af2ec623c%2F%29&wdorigin=703)
+    - [Ch 2.6 - Prototypes and Post-It Notes](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FPrototypes%20and%20Post-It%20Notes%7Ceba2637b-0076-4ef1-b025-fb9f706585a6%2F%29&wdorigin=703)
+    - [Ch 2.7 - Domain Languages](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FDomain%20Languages%7C24819d9a-e0c4-4f45-b863-62b4da6053fa%2F%29&wdorigin=703)
+    - [Ch 2.8 - Estimating](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FEstimating%7C6434ef77-17b2-4a27-9559-fe4779506919%2F%29&wdorigin=703)
+
 # 02/18/21
   - [Pragmatic Programmer](/books#Pragmatic-Programmer)
     - [Ch 1.3 - Stone Soup and Boiled Frogs](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FStone%20Soup%20and%20Boiled%20Frogs%7C58d6783c-54cf-499c-a237-c3ee681fae95%2F%29&wdorigin=703)
