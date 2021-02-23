@@ -12,6 +12,18 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 02/23/21
+  - [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](/books#3D-Math-Primer)
+    - [1.3.1 - 3D Cartesian Space - Extra Dimension, Extra Axis](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.3.1%20-%20Extra%20Dimension%2C%20Extra%20%7C998ed2da-9ef7-48e9-b758-9d0567884188%2F%29&wdorigin=703)
+    - [1.3.2 - Specifying Locations in 3D](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.3.2%20-%20Specifying%20Locations%20in%203D%7C0a2c0349-7664-495a-ba22-92dd4345986f%2F%29&wdorigin=703)
+    - [1.3.3 - Left-handed versus Right-handed Coordinate Spaces](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.3.3%20-%20Left-handed%20versus%20%7C8fc7af07-1b7b-4607-ac78-208c99b4f54a%2F%29&wdorigin=703)
+    - [1.3.4 - Some Important Conventions Used in This Book](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.3.4%20-%20Some%20Important%20Conventions%20Used%20%7C266e6ca9-5778-45ca-83b7-d8af866d45a5%2F%29&wdorigin=703)
+    - [1.4.1 - Odds and Ends - Summation and Product Notation](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.4.1%20-%20Summation%20and%20Product%20Notation%7C0e1fbd17-3aee-46e5-a435-e516ef141b09%2F%29&wdorigin=703)
+    - [1.4.2 - Interval Notation](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.4.2%20-%20Interval%20Notation%7C74829749-2442-4998-8809-06309e7dfa86%2F%29&wdorigin=703)
+    - [1.4.3 - Angles, Degrees, Radians](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.4.3%20-%20Angles%2C%20Degrees%2C%7C1de8fe52-2627-4e00-9180-cc6cd7abc664%2F%29&wdorigin=703)
+    - [1.4.4 - Trig Functions](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.4.4%20-%20Trig%20Functions%7C3b681adc-3e68-40dc-8ce9-4942d75632be%2F%29&wdorigin=703)
+    - [1.4.5 - Trig Identities](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.4.5%20-%20Trig%20Identities%7C481018f0-61ee-4a63-82b5-ddf9b8536200%2F%29&wdorigin=703)
+
 # 02/20/21
   - [Pragmatic Programmer](/books#Pragmatic-Programmer)
     - [Ch 2.1 - Intro](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Pragmatic%20Programmer.one%7C9ad0bb0d-6995-4d1e-ba16-6235ea47d2f4%2FIntro%7C87340306-2296-4dea-b021-816411c8f12d%2F%29&wdorigin=703)
