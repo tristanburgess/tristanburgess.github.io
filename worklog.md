@@ -12,6 +12,10 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 02/27/21
+  - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
+    - [2.1 - Representing and Manpulating Information - Information Storage](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.1%20-%20Information%20Storage%7Cfddb1638-7dba-4f6f-b99b-e7b8acb985ac%2F%29&wdorigin=703)
+
 # 02/23/21
   - [Dunn, Parberry - 3D Math Primer for Graphics and Game Development](/books#3D-Math-Primer)
     - [1.3.1 - 3D Cartesian Space - Extra Dimension, Extra Axis](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%283D%20Math%20Primer.one%7C8c791363-1d9d-4579-b057-50f8d3ce0149%2F1.3.1%20-%20Extra%20Dimension%2C%20Extra%20%7C998ed2da-9ef7-48e9-b758-9d0567884188%2F%29&wdorigin=703)
