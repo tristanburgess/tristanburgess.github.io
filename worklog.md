@@ -12,6 +12,10 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 03/01/21
+  - [CMU 15-213 - Intro to Computer Systems](/classes#CMU-15-213)
+    - [Lecture 2 - Bits, Bytes, and Integers](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F15-213%20Lecture%202%20-%20Bits%2C%20Bytes%2C%7C6632d1de-b1e1-4307-8afa-4d6d58997b4a%2F%29&wdorigin=703)
+
 # 02/28/21
   - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
     - [2.1 - Practice Problems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.1%20-%20Practice%20Problems%7C95508ed6-9872-470b-abdb-cfe85b55b7e9%2F%29&wdorigin=703)
