@@ -12,13 +12,19 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
-# 03/02/21
+# 03/04/21
+  - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
+    - [2.2 - Practice Problems](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.2%20-%20Practice%20Problems%7Ceb5efe60-9eff-4e43-b400-c0675f9b68ff%2F%29&wdorigin=703)
+      - Including practice problems from the Web Aside
+
+  - [CMU 15-213 - Intro to Computer Systems](/classes#CMU-15-213)
+    - [Lecture 3 - Bits, Bytes, and Integers Pt 2](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F15-213%20Lecture%203%20-%20Bits%2C%20Bytes%2C%7Ca4efcbca-4961-4877-8bef-3cfe0878f3dd%2F%29&wdorigin=703)
+
+# 03/03/21
   - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
     - [2.2 - Integer Representations](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.2%20-%20Integer%20Representations%7C6cb1de5f-b7da-4460-ad4a-4e9945301a1e%2F%29&wdorigin=703)
       - Finished notes on this section.
-
     - [2.1 - Web Aside - More on Boolean Algebra and Boolean Rings](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.1%20-%20Web%20Aside%20-%20More%20on%20Boolean%20%7Cd801e2df-300d-4408-845d-552ae8fa1f5d%2F%29&wdorigin=703)
-
     - [2.2 - Web Aside - Writing Tmin in C](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.2%20-%20Web%20Aside%20-%20Writing%20Tmin%20in%20%7Cb67d6c28-6b77-4752-91f7-1c020c7bf12b%2F%29&wdorigin=703)
 
 # 03/02/21

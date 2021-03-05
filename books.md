@@ -42,6 +42,7 @@ title: booklist
 - [Polya - How To Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 - [Riley, Hobson - Mathematical Methods for Physics and Engineering](https://www.goodreads.com/book/show/777145.Mathematical_Methods_for_Physics_and_Engineering){: #RHB-Math-Methods-4-Physics}
 - [Shankar - Basic Training in Mathematics](https://www.goodreads.com/en/book/show/1562336.Basic_Training_in_Mathematics){: #Shankar-Math-Basic-Training}
+- [Spivak - Calculus](https://www.goodreads.com/book/show/328645.Calculus)
 - [Strang - Introduction to Linear Algebra](https://www.goodreads.com/book/show/179700.Introduction_to_Linear_Algebra){: #Strang-LA}
 - [Ueno, Shiga, Morita - A Mathematical Gift, I](https://www.goodreads.com/book/show/910650.A_Mathematical_Gift_I){: #Ueno-Mathematical-Gift}
 - [Velleman - How To Prove It](https://www.goodreads.com/book/show/739735.How_to_Prove_It){: #Velleman-How-To-Prove-It}
