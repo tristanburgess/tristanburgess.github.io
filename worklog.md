@@ -12,6 +12,10 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 03/07/21
+  - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
+    - [2.4 - Floating Point](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.4%20-%20Floating%20Point%7C3df8ceeb-ef21-4656-a7c3-4b2126327985%2F%29&wdorigin=703)
+
 # 03/06/21
   - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
     - [2.3 - Integer Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.3%20-%20Integer%20Arithmetic%7C27b6cb40-c96d-48db-869d-ad731a2d6b51%2F%29&wdorigin=703)
