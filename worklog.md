@@ -17,6 +17,8 @@ New year, new worklog!
     - [2.3 - Integer Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.3%20-%20Integer%20Arithmetic%7C27b6cb40-c96d-48db-869d-ad731a2d6b51%2F%29&wdorigin=703)
       - Finished notes for this section
 
+    - [2.3 - Web Aside - Bit-Level Representation of Two's Complement Negation](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.3%20-%20Web%20Aside%20-%20Bit-level%20%7Cd44a1f4e-16aa-4396-a279-5ae85a3be864%2F%29&wdorigin=703)
+
 # 03/05/21
   - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
     - [2.3 - Integer Arithmetic](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Computer%20Systems%20-%20A%20Programmer%27s%20Perspective.one%7Cd97515c5-1140-4bd3-96f9-f484456e67f1%2F2.3%20-%20Integer%20Arithmetic%7C27b6cb40-c96d-48db-869d-ad731a2d6b51%2F%29&wdorigin=703)
