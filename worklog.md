@@ -12,6 +12,11 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 03/14/21
+  - [Game Engine Architecture](/books#Game-Engine-Arch)
+    - [Chapter 1 - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Game%20Engine%20Architecture.one%7Cee543cb5-9883-4bce-ad59-42b647e7b5ba%2F%29&wdorigin=717)
+      - Did notes on sections 1.1-1.5
+
 # 03/13/21
   - [Systems Performance](/books#Systems-Performance)
     - [Chapter 1 - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Systems%20Performance.one%7C21ba81ad-3ba1-4ab7-a24c-8820321df7b2%2FChapter%201%20-%20Introduction%7Ca2d9700a-062e-447a-9887-de6aabbf720c%2F%29&wdorigin=703)
