@@ -12,11 +12,15 @@ title: tristan's worklog
 My worklog for 2020 has been completed, and can be found [here](/worklog2020)\
 New year, new worklog!
 
+# 03/13/21
+  - [Systems Performance](/books#Systems-Performance)
+    - [Chapter 1 - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Systems%20Performance.one%7C21ba81ad-3ba1-4ab7-a24c-8820321df7b2%2FChapter%201%20-%20Introduction%7Ca2d9700a-062e-447a-9887-de6aabbf720c%2F%29&wdorigin=703)
+      - Finished notes on this chapter
+
 # 03/11/21
   - [Systems Performance](/books#Systems-Performance)
-    - [1.1 - Systems Performance](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Systems%20Performance.one%7C21ba81ad-3ba1-4ab7-a24c-8820321df7b2%2F1.1%20-%20Systems%20Performance%7Cf8bac965-f196-49bb-be93-dff172b5c08d%2F%29&wdorigin=703)
-    - [1.3 - Activities](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Systems%20Performance.one%7C21ba81ad-3ba1-4ab7-a24c-8820321df7b2%2F1.3%20-%20Activities%7C0e7f7046-e6c8-4060-b70e-86f1d6ee2bb8%2F%29&wdorigin=703)
-    - [1.5 - Performance is Challenging](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Systems%20Performance.one%7C21ba81ad-3ba1-4ab7-a24c-8820321df7b2%2F1.5%20-%20Performance%20is%20Challenging%7C9d3b83c8-f6ca-40ad-a206-cb6625d8c49f%2F%29&wdorigin=703)
+    - [Chapter 1 - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Systems%20Performance.one%7C21ba81ad-3ba1-4ab7-a24c-8820321df7b2%2FChapter%201%20-%20Introduction%7Ca2d9700a-062e-447a-9887-de6aabbf720c%2F%29&wdorigin=703)
+      - Did notes on sections 1.1-1.5
 
 # 03/10/21
   - [Computer Systems: A Programmer's Perspective](/books#CSAPP)
