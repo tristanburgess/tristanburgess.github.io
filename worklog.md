@@ -15,6 +15,11 @@ New year, new worklog!
 # 03/14/21
   - [Game Engine Architecture](/books#Game-Engine-Arch)
     - [Chapter 1 - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Game%20Engine%20Architecture.one%7Cee543cb5-9883-4bce-ad59-42b647e7b5ba%2F%29&wdorigin=717)
+      - Finished with notes on sections 1.6-1.7
+
+# 03/14/21
+  - [Game Engine Architecture](/books#Game-Engine-Arch)
+    - [Chapter 1 - Introduction](https://onedrive.live.com/redir?resid=AC2B7FCAC9B0E0F1%21126621&authkey=%21AFFOZkfzpTODL7A&page=View&wd=target%28Game%20Engine%20Architecture.one%7Cee543cb5-9883-4bce-ad59-42b647e7b5ba%2F%29&wdorigin=717)
       - Did notes on sections 1.1-1.5
 
 # 03/13/21
