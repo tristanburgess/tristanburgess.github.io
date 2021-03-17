@@ -13,9 +13,11 @@ title: booklist
 - [Cooper, Torczon - Engineering a Compiler](https://www.goodreads.com/book/show/3408316-engineering-a-compiler-second-edition)
 - [Gregg - Systems Performance: Enterprise and the Cloud](https://www.goodreads.com/en/book/show/18058001-systems-performance){: #Systems-Performance}
 - [Gregory - Game Engine Architecture](https://www.goodreads.com/book/show/6709076-game-engine-architecture){: #Game-Engine-Arch}
+- [Herilhy - The Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
 - [Hunt - The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){: #Pragmatic-Programmer}
 - [Kleppmann - Designing Data-Intensive Applications: The Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications){: #Designing-Data-Intensive-Applications}
 - [Kurose, Ross - Computer Networking: A Top-Down Approach](https://www.goodreads.com/book/show/83847.Computer_Networking)
+- [Martin - Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture)
 - [Marschner, Shirley - Fundamentals of Computer Graphics](https://www.goodreads.com/book/show/1933732.Fundamentals_of_Computer_Graphics)
 - [McDowell - Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview){: #Cracking-The-Coding-Interview}
 - [McGuire - The Graphics Codex](http://graphicscodex.com/index.php)
